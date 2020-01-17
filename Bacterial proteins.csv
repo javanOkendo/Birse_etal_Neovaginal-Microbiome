@@ -1,0 +1,1276 @@
+"","SubjectID","Genus","Protein Name","UniProt Accession ID","Normalized Total Spectral Count"
+"1","V10","Lactobacillus","30S ribosomal protein S10","A0A061BUE3_LACDE",0.93084
+"2","V21","Lactobacillus","30S ribosomal protein S10","A0A061BUE3_LACDE",0.60241
+"3","V30","Lactobacillus","30S ribosomal protein S10","A0A061BUE3_LACDE",0.57542
+"4","NV1","Streptococcus","Enolase","A0A064C0W5_STREE",1.7698
+"5","V03","Bifidobacterium","Chaperone protein DnaK","A0A076JP43_BIFAD",7.0665
+"6","R8","Bifidobacterium","L-arabinose isomerase","A0A076JPL1_BIFAD",19.509
+"7","R3","undistinguishable","67-dimethyl-8-ribityllumazine synthase","A0A084J9X4_9CLOT",3.6382
+"8","V27","Lactobacillus","Putative mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase","A0A087QB99_LACGS",3.741
+"9","V10","Lactobacillus","Protein GrpE","A0A087QCR6_LACGS",0.93084
+"10","V15","Lactobacillus","Chaperone protein DnaK","A0A087QCR7_LACGS",1.5066
+"11","V15","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase type I","A0A087QEA2_LACGS",3.0133
+"12","V16","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase type I","A0A087QEA2_LACGS",0.89019
+"13","V15L","Lactobacillus","30S ribosomal protein S10","A0A089Y5T5_9LACO",3.3099
+"14","V1O","Lactobacillus","30S ribosomal protein S10","A0A089Y5T5_9LACO",1.1985
+"15","V22","Lactobacillus","30S ribosomal protein S10","A0A089Y5T5_9LACO",0.86226
+"16","V31","Lactobacillus","30S ribosomal protein S10","A0A089Y5T5_9LACO",0.43582
+"17","V9L","Lactobacillus","30S ribosomal protein S10","A0A089Y5T5_9LACO",5.0422
+"18","NV1","Peptostreptococcus","S-layer protein","A0A095XP91_9FIRM",5.3094
+"19","NV7","Prevotella","Elongation factor Tu","A0A095YVR2_9BACT",5.7259
+"20","R5","Prevotella","Elongation factor Tu","A0A095YVR2_9BACT",12.017
+"21","V20","Prevotella","Glutamate dehydrogenase","A0A095YWC1_9BACT",1.3964
+"22","R8","Prevotella","Glutamine--tRNA ligase","A0A095Z2Y8_9BACT",19.509
+"23","V23","Prevotella","Uncharacterized protein","A0A095ZLI8_9BACT",3.0768
+"24","NV7","Prevotella","Enolase","A0A095ZWV8_9BACT",1.658
+"25","V20","Prevotella","Enolase","A0A095ZWV8_9BACT",0.93095
+"26","NV4","Peptostreptococcus","Oxidoreductase","A0A096A354_9FIRM",18.742
+"27","NV1","Prevotella","Uncharacterized protein","A0A096AKQ8_9BACT",1.7698
+"28","V20","Prevotella","Malate dehydrogenase","A0A096ARE4_9BACT",1.8619
+"29","NV1","Prevotella","Glutamate dehydrogenase","A0A096ATX2_9BACT",3.5396
+"30","R4","Prevotella","Glutamate dehydrogenase","A0A096ATX2_9BACT",0.86678
+"31","V01","Prevotella","Glutamate dehydrogenase","A0A096ATX2_9BACT",0.80897
+"32","NV7","Prevotella","Uncharacterized protein","A0A096AU92_9BACT",3.3161
+"33","NV1","Peptoniphilus","Acetylornithine aminotransferase","A0A096B012_9FIRM",3.5396
+"34","NV7","Peptoniphilus","Acetylornithine aminotransferase","A0A096B012_9FIRM",3.3161
+"35","NV1","Prevotella","Dipeptidase","A0A096C029_9BACT",1.7698
+"36","NV1","Prevotella","Membrane protein","A0A096CPZ2_9BACT",1.7698
+"37","V01","Mycoplasma","p120' protein","A0A097NTI5_MYCHO",1.6179
+"38","NV7","Prevotella","Uncharacterized protein","A0A098YRB4_9BACT",3.3161
+"39","NV1","Prevotella","Phosphoenolpyruvate carboxykinase (ATP)","A0A098YU56_9BACT",1.7698
+"40","V23","Prevotella","Phosphoenolpyruvate carboxykinase (ATP)","A0A098YU56_9BACT",1.5384
+"41","NV6","Escherichia","Elongation factor Ts","A0A0A8U7T3_ECOLX",2.6399
+"42","NV6","undistinguishable","Elongation factor Tu","A0A0A8UHF0_ECOLX",5.2799
+"43","NV6","undistinguishable","Phosphoglycerate kinase","A0A0A8UI38_ECOLX",6.5998
+"44","R3","Prevotella","Contig88 whole genome shotgun sequence","A0A0D0IR81_9BACT",3.6382
+"45","V30","Lactobacillus","Acyl carrier protein","A0A0D5MG96_LACHE",1.1508
+"46","V10","Lactobacillus","50S ribosomal protein L14","A0A0D5MGE2_LACHE",0.46542
+"47","V30","Lactobacillus","50S ribosomal protein L14","A0A0D5MGE2_LACHE",1.1508
+"48","V30","Lactobacillus","Peptidase M13","A0A0D5MGR6_LACHE",2.3017
+"49","V30","Lactobacillus","Uncharacterized protein","A0A0D5MGZ6_LACHE",1.7263
+"50","V06","undistinguishable","Uncharacterized protein","A0A0D5MH26_LACHE",0.89462
+"51","V10","undistinguishable","Uncharacterized protein","A0A0D5MH26_LACHE",0.46542
+"52","V21","undistinguishable","Uncharacterized protein","A0A0D5MH26_LACHE",0.60241
+"53","V25","undistinguishable","Uncharacterized protein","A0A0D5MH26_LACHE",1.7504
+"54","V30","undistinguishable","Uncharacterized protein","A0A0D5MH26_LACHE",4.0279
+"55","V32","undistinguishable","Uncharacterized protein","A0A0D5MH26_LACHE",2.2275
+"56","V10","Lactobacillus","50S ribosomal protein L23","A0A0D5MH47_LACHE",0.93084
+"57","V10","Lactobacillus","50S ribosomal protein L10","A0A0D5MHA9_LACHE",0.93084
+"58","V30","Lactobacillus","50S ribosomal protein L10","A0A0D5MHA9_LACHE",0.57542
+"59","V22","Lactobacillus","50S ribosomal protein L27","A0A0D5MHC3_LACHE",0.86226
+"60","V10","Lactobacillus","Elongation factor G","A0A0D5MHE6_LACHE",0.93084
+"61","V21","Lactobacillus","Elongation factor G","A0A0D5MHE6_LACHE",1.2048
+"62","V30","Lactobacillus","Elongation factor G","A0A0D5MHE6_LACHE",5.1788
+"63","V30","Lactobacillus","Glutathione reductase","A0A0D5MHX9_LACHE",1.1508
+"64","V30","Lactobacillus","Galactose-1-phosphate uridylyltransferase","A0A0D5MHY4_LACHE",1.1508
+"65","V10","Lactobacillus","Glutamine synthetase","A0A0D5MI40_LACHE",0.93084
+"66","V21","Lactobacillus","Glutamine synthetase","A0A0D5MI40_LACHE",0.60241
+"67","V30","Lactobacillus","Glutamine synthetase","A0A0D5MI40_LACHE",4.0279
+"68","V10","Lactobacillus","DNA-binding protein","A0A0D5MI86_LACHE",0.93084
+"69","V30","Lactobacillus","DNA-binding protein","A0A0D5MI86_LACHE",0.57542
+"70","V10","Lactobacillus","50S ribosomal protein L21","A0A0D5MIY3_LACHE",0.93084
+"71","V30","Lactobacillus","50S ribosomal protein L21","A0A0D5MIY3_LACHE",0.57542
+"72","NV7","Lactobacillus","NAD(FAD)-dependent dehydrogenase","A0A0D5MJ30_LACHE",1.658
+"73","V30","Lactobacillus","NAD(FAD)-dependent dehydrogenase","A0A0D5MJ30_LACHE",1.7263
+"74","V30","Lactobacillus","Ribose-5-phosphate isomerase A","A0A0D5MJB1_LACHE",1.1508
+"75","V30","Lactobacillus","Glucose-6-phosphate isomerase","A0A0D5MJD8_LACHE",7.4805
+"76","V30","Lactobacillus","Phosphoglycerate kinase","A0A0D5MJL0_LACHE",7.4805
+"77","V10","Lactobacillus","Peptide chain release factor 1","A0A0D5MJM4_LACHE",0.46542
+"78","V30","Lactobacillus","Peptide chain release factor 1","A0A0D5MJM4_LACHE",2.3017
+"79","NV7","Lactobacillus","Enolase","A0A0D5MK09_LACHE",1.658
+"80","V30","Lactobacillus","Enolase","A0A0D5MK09_LACHE",21.291
+"81","V30","Lactobacillus","Phosphoenolpyruvate-protein phosphotransferase","A0A0D5MK11_LACHE",3.4525
+"82","V30","Lactobacillus","ATP synthase subunit alpha","A0A0D5MKB9_LACHE",2.3017
+"83","V30","Lactobacillus","Acetate kinase","A0A0D5MKD7_LACHE",1.1508
+"84","V10","Lactobacillus","Phosphate-specific transport system accessory protein PhoU","A0A0D6ZH62_LACDE",0.93084
+"85","V13","Lactobacillus","Enolase","A0A0E1XV78_9LACO",3.1162
+"86","V05","Lactobacillus","Phosphoglycerate kinase","A0A0E1XVG7_9LACO",0.81441
+"87","V05","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase type I","A0A0E1XWT4_9LACO",2.4432
+"88","V13","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase type I","A0A0E1XWT4_9LACO",5.1937
+"89","V15","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase type I","A0A0E1XWT4_9LACO",1.5066
+"90","V16","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase type I","A0A0E1XWT4_9LACO",2.6706
+"91","V1O","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase type I","A0A0E1XWT4_9LACO",1.1985
+"92","V6L","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase type I","A0A0E1XWT4_9LACO",2.071
+"93","V6O","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase type I","A0A0E1XWT4_9LACO",6.4454
+"94","V05","Lactobacillus","Fructose-16-bisphosphate aldolase class II","A0A0E1XXH1_9LACO",2.4432
+"95","V13","Lactobacillus","Fructose-16-bisphosphate aldolase class II","A0A0E1XXH1_9LACO",4.155
+"96","V16","Lactobacillus","Fructose-16-bisphosphate aldolase class II","A0A0E1XXH1_9LACO",2.6706
+"97","V6O","Lactobacillus","Fructose-16-bisphosphate aldolase class II","A0A0E1XXH1_9LACO",2.1485
+"98","V05","Lactobacillus","Gram-positive signal peptide protein YSIRK family","A0A0E1XXX9_9LACO",8.9586
+"99","V13","Lactobacillus","Gram-positive signal peptide protein YSIRK family","A0A0E1XXX9_9LACO",10.387
+"100","V6O","Lactobacillus","Gram-positive signal peptide protein YSIRK family","A0A0E1XXX9_9LACO",2.1485
+"101","V13","Lactobacillus","Trigger factor","A0A0E1XXY1_9LACO",2.0775
+"102","V01","Lactobacillus","Enolase","A0A0E1XY28_9LACO",0.80897
+"103","V13","Lactobacillus","Enolase","A0A0E1XY28_9LACO",1.0387
+"104","V05","Lactobacillus","Glucose-6-phosphate isomerase","A0A0E1XY68_9LACO",1.6288
+"105","V13","Lactobacillus","Glucose-6-phosphate isomerase","A0A0E1XY68_9LACO",3.1162
+"106","V05","Lactobacillus","10 kDa chaperonin","A0A0E1XYK7_9LACO",1.6288
+"107","V05","Lactobacillus","Ferritin-like protein","A0A0E1XYM0_9LACO",0.81441
+"108","V13","Lactobacillus","Ferritin-like protein","A0A0E1XYM0_9LACO",2.0775
+"109","V05","Lactobacillus","Chaperone protein DnaK","A0A0E1XYP7_9LACO",0.81441
+"110","V05","Lactobacillus","Glycosyl hydrolase family 25","A0A0E1Y646_9LACO",0.81441
+"111","V13","Lactobacillus","Glycosyl hydrolase family 25","A0A0E1Y646_9LACO",2.0775
+"112","V05","Lactobacillus","Gram-positive signal peptide protein YSIRK family","A0A0E1Y650_9LACO",9.773
+"113","V16","Lactobacillus","Gram-positive signal peptide protein YSIRK family","A0A0E1Y650_9LACO",2.6706
+"114","V25","Lactobacillus","Gram-positive signal peptide protein YSIRK family","A0A0E1Y650_9LACO",1.7504
+"115","V6O","Lactobacillus","Gram-positive signal peptide protein YSIRK family","A0A0E1Y650_9LACO",8.5939
+"116","V05","Lactobacillus","Elongation factor Tu","A0A0E1Y6W7_9LACO",0.81441
+"117","V10","Lactobacillus","Elongation factor Tu","A0A0E1Y6W7_9LACO",1.8617
+"118","V13","Lactobacillus","Elongation factor Tu","A0A0E1Y6W7_9LACO",1.0387
+"119","V25","Lactobacillus","Elongation factor Tu","A0A0E1Y6W7_9LACO",1.7504
+"120","V05","Lactobacillus","Pyruvate kinase","A0A0E1Y718_9LACO",0.81441
+"121","V13","Lactobacillus","Pyruvate kinase","A0A0E1Y718_9LACO",4.155
+"122","V1O","Lactobacillus","Pyruvate kinase","A0A0E1Y718_9LACO",1.1985
+"123","V22","Lactobacillus","Pyruvate kinase","A0A0E1Y718_9LACO",0.43113
+"124","V6O","Lactobacillus","Pyruvate kinase","A0A0E1Y718_9LACO",2.1485
+"125","V9L","Lactobacillus","Pyruvate kinase","A0A0E1Y718_9LACO",2.5211
+"126","R3","Lactobacillus","60 kDa chaperonin","A0A0E1Y7Q6_9LACO",1.8191
+"127","V05","Lactobacillus","60 kDa chaperonin","A0A0E1Y7Q6_9LACO",3.2577
+"128","V13","Lactobacillus","60 kDa chaperonin","A0A0E1Y7Q6_9LACO",1.0387
+"129","V25","Lactobacillus","60 kDa chaperonin","A0A0E1Y7Q6_9LACO",1.7504
+"130","V28","Lactobacillus","60 kDa chaperonin","A0A0E1Y7Q6_9LACO",0.99991
+"131","V6O","Lactobacillus","60 kDa chaperonin","A0A0E1Y7Q6_9LACO",2.1485
+"132","V05","Lactobacillus","ABC transporter solute-binding protein","A0A0E1Y889_9LACO",0.81441
+"133","V13","Lactobacillus","ABC transporter solute-binding protein","A0A0E1Y889_9LACO",1.0387
+"134","V6O","Lactobacillus","ABC transporter solute-binding protein","A0A0E1Y889_9LACO",4.2969
+"135","V23","Sneathia","Elongation factor G","A0A0E3UTG5_9FUSO",2.3076
+"136","V23","Sneathia","Uncharacterized protein","A0A0E3UTJ8_9FUSO",1.5384
+"137","V23","Sneathia","Elongation factor Ts","A0A0E3UTZ8_9FUSO",2.3076
+"138","V23","Sneathia","Glyceraldehyde-3-phosphate dehydrogenase","A0A0E3UU77_9FUSO",1.5384
+"139","V23","Sneathia","50S ribosomal protein L5","A0A0E3UU95_9FUSO",1.5384
+"140","V23","Sneathia","Formate acetyltransferase","A0A0E3UUK7_9FUSO",5.3844
+"141","V23","Sneathia","Phosphoglycerate kinase","A0A0E3UV57_9FUSO",1.5384
+"142","V23","Sneathia","Acid phosphatase","A0A0E3Z9S1_9FUSO",1.5384
+"143","V23","Sneathia","Arginine deiminase","A0A0E3ZAG9_9FUSO",1.5384
+"144","V23","Sneathia","Ribosome-recycling factor","A0A0E3ZAJ9_9FUSO",1.5384
+"145","V23","Sneathia","Fructose-bisphosphate aldolase","A0A0E3ZAU8_9FUSO",2.3076
+"146","V23","Sneathia","Adenylate kinase","A0A0E3ZAV1_9FUSO",2.3076
+"147","V23","Sneathia","Xaa-Pro dipeptidase","A0A0E3ZB47_9FUSO",1.5384
+"148","V23","Sneathia","Elongation factor Tu","A0A0E3ZB99_9FUSO",4.6152
+"149","NV7","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0F7H4G7_LACHE",1.658
+"150","V30","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0F7H4G7_LACHE",12.659
+"151","V03","Gardnerella","Uncharacterized protein","A0A0J8F8A2_GARVA",8.4798
+"152","V01","Gardnerella","Elongation factor Tu","A0A0J8F9A7_GARVA",1.6179
+"153","V03","Gardnerella","Elongation factor Tu","A0A0J8F9A7_GARVA",1.4133
+"154","V6O","Gardnerella","Elongation factor Tu","A0A0J8F9A7_GARVA",4.2969
+"155","V6O","Gardnerella","30S ribosomal protein S1","A0A0J8F9W6_GARVA",2.1485
+"156","V03","Gardnerella","Inosine-5'-monophosphate dehydrogenase","A0A0J8F9Y8_GARVA",1.4133
+"157","V01","Gardnerella","Oxidoreductase","A0A0J8FC74_GARVA",0.80897
+"158","V01","Gardnerella","ABC transporter substrate-binding protein","A0A0J8FCC0_GARVA",0.80897
+"159","V03","Gardnerella","ABC transporter substrate-binding protein","A0A0J8FCC0_GARVA",5.6532
+"160","V6O","Gardnerella","ABC transporter substrate-binding protein","A0A0J8FCC0_GARVA",6.4454
+"161","V01","Gardnerella","ABC transporter substrate-binding protein","A0A0J8FCF7_GARVA",3.2359
+"162","V07","Gardnerella","Alpha-14 glucan phosphorylase","A0A0J8FCH7_GARVA",5.918
+"163","V6O","Gardnerella","Alpha-14 glucan phosphorylase","A0A0J8FCH7_GARVA",4.2969
+"164","V03","Gardnerella","50S ribosomal protein L7/L12","A0A0J8FCR3_GARVA",1.4133
+"165","R8","Gardnerella","Probable phosphoketolase","A0A0J8FE46_GARVA",6.5031
+"166","V01","Gardnerella","Probable phosphoketolase","A0A0J8FE46_GARVA",5.6628
+"167","V03","Gardnerella","Probable phosphoketolase","A0A0J8FE46_GARVA",12.72
+"168","V04","Gardnerella","Probable phosphoketolase","A0A0J8FE46_GARVA",1.3578
+"169","V20","Gardnerella","Probable phosphoketolase","A0A0J8FE46_GARVA",0.46548
+"170","V23","Gardnerella","Probable phosphoketolase","A0A0J8FE46_GARVA",0.7692
+"171","V6O","Gardnerella","Probable phosphoketolase","A0A0J8FE46_GARVA",6.4454
+"172","V6O","Gardnerella","Ethanol-active dehydrogenase/acetaldehyde-active reductase","A0A0J8FEW3_GARVA",2.1485
+"173","V03","Gardnerella","50S ribosomal protein L29","A0A0J8I4Q1_GARVA",2.8266
+"174","V01","Gardnerella","ATP synthase subunit alpha","A0A0J8I502_GARVA",0.80897
+"175","V6O","Gardnerella","L-lactate dehydrogenase","A0A0J8I5W9_GARVA",2.1485
+"176","NV1","Campylobacter","Asparaginase II","A0A0K1HD58_9PROT",2.6547
+"177","NV1","Campylobacter","Putative membrane protein","A0A0K1HH58_9PROT",1.7698
+"178","R2","Roseburia","Flagellin","A0A0M6W9J9_9FIRM",104.79
+"179","R8","Roseburia","Chaperone protein DnaK","A0A0M6WS23_9FIRM",19.509
+"180","NV1","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",1.7698
+"181","NV7","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",4.9741
+"182","R4","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",2.6003
+"183","V01","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",3.2359
+"184","V05","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",4.0721
+"185","V10","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",4.6542
+"186","V11","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",24.476
+"187","V12","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",5.0143
+"188","V15","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",6.7799
+"189","V15L","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",19.86
+"190","V16","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",17.804
+"191","V1O","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",28.764
+"192","V20","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",1.3964
+"193","V21","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",12.048
+"194","V22","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",14.227
+"195","V25","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",19.254
+"196","V30","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",2.3017
+"197","V31","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",2.6149
+"198","V6O","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",19.336
+"199","V9L","Lysinibacillus","o-succinylbenzoate synthase","A0A0M9WVM9_9BACI",75.633
+"200","V10","Lactobacillus","Phosphocarrier protein HPr","A0A0N7I4Y7_9LACO",0.46542
+"201","V21","Lactobacillus","Phosphocarrier protein HPr","A0A0N7I4Y7_9LACO",0.60241
+"202","V22","Lactobacillus","Phosphocarrier protein HPr","A0A0N7I4Y7_9LACO",0.86226
+"203","V30","Lactobacillus","Phosphocarrier protein HPr","A0A0N7I4Y7_9LACO",1.1508
+"204","V31","Lactobacillus","Phosphocarrier protein HPr","A0A0N7I4Y7_9LACO",0.43582
+"205","V30","Lactobacillus","Beta-phosphoglucomutase","A0A0N9ZKD0_LACHE",1.7263
+"206","V30","Lactobacillus","Cell surface protein","A0A0P0E0L7_9LACO",2.3017
+"207","V30","Lactobacillus","Uncharacterized protein","A0A0P0EAE9_9LACO",1.7263
+"208","V16","Lactobacillus","Ribonucleoside-diphosphate reductase","A0A0P0ECP2_9LACO",1.7804
+"209","V22","Lactobacillus","30S ribosomal protein S7","A0A0P0EHA4_9LACO",0.86226
+"210","V22","Lactobacillus","Uncharacterized protein","A0A0R1G7C1_9LACO",1.2934
+"211","V06","Lactobacillus","Flavin-nucleotide-binding protein structurally related to pyridoxine 5-phosphate oxidase","A0A0R1G7P3_9LACO",0.89462
+"212","V10","Lactobacillus","Flavin-nucleotide-binding protein structurally related to pyridoxine 5-phosphate oxidase","A0A0R1G7P3_9LACO",1.8617
+"213","V1O","Lactobacillus","Flavin-nucleotide-binding protein structurally related to pyridoxine 5-phosphate oxidase","A0A0R1G7P3_9LACO",2.397
+"214","V21","Lactobacillus","Flavin-nucleotide-binding protein structurally related to pyridoxine 5-phosphate oxidase","A0A0R1G7P3_9LACO",0.60241
+"215","V22","Lactobacillus","Flavin-nucleotide-binding protein structurally related to pyridoxine 5-phosphate oxidase","A0A0R1G7P3_9LACO",2.5868
+"216","V31","Lactobacillus","Flavin-nucleotide-binding protein structurally related to pyridoxine 5-phosphate oxidase","A0A0R1G7P3_9LACO",2.1791
+"217","V32","Lactobacillus","Flavin-nucleotide-binding protein structurally related to pyridoxine 5-phosphate oxidase","A0A0R1G7P3_9LACO",3.898
+"218","V10","Lactobacillus","Uncharacterized protein","A0A0R1GB02_9LACO",2.7925
+"219","V16","Lactobacillus","Uncharacterized protein","A0A0R1GB02_9LACO",1.7804
+"220","V22","Lactobacillus","Uncharacterized protein","A0A0R1GB02_9LACO",2.1557
+"221","V10","Lactobacillus","Enolase","A0A0R1GCE4_9LACO",7.4467
+"222","V17","Lactobacillus","Enolase","A0A0R1GCE4_9LACO",0.42086
+"223","V21","Lactobacillus","Enolase","A0A0R1GCE4_9LACO",5.4217
+"224","V06","Lactobacillus","50S ribosomal protein L7/L12","A0A0R1GDS8_9LACO",0.89462
+"225","V10","Lactobacillus","50S ribosomal protein L7/L12","A0A0R1GDS8_9LACO",0.93084
+"226","V21","Lactobacillus","50S ribosomal protein L7/L12","A0A0R1GDS8_9LACO",1.2048
+"227","V22","Lactobacillus","50S ribosomal protein L7/L12","A0A0R1GDS8_9LACO",2.1557
+"228","V27","Lactobacillus","50S ribosomal protein L7/L12","A0A0R1GDS8_9LACO",1.8705
+"229","V28","Lactobacillus","50S ribosomal protein L7/L12","A0A0R1GDS8_9LACO",0.49996
+"230","V30","Lactobacillus","50S ribosomal protein L7/L12","A0A0R1GDS8_9LACO",2.3017
+"231","V31","Lactobacillus","50S ribosomal protein L7/L12","A0A0R1GDS8_9LACO",1.7433
+"232","V32","Lactobacillus","50S ribosomal protein L7/L12","A0A0R1GDS8_9LACO",2.7843
+"233","V6O","Lactobacillus","50S ribosomal protein L7/L12","A0A0R1GDS8_9LACO",2.1485
+"234","V31","Lactobacillus","50S ribosomal protein L10","A0A0R1GEE7_9LACO",0.87165
+"235","V32","Lactobacillus","50S ribosomal protein L10","A0A0R1GEE7_9LACO",2.2275
+"236","V14","Lactobacillus","Uncharacterized protein","A0A0R1GEY7_9LACO",11.859
+"237","V15L","Lactobacillus","Uncharacterized protein","A0A0R1GEY7_9LACO",3.3099
+"238","V1O","Lactobacillus","Uncharacterized protein","A0A0R1GEY7_9LACO",2.397
+"239","V22","Lactobacillus","Uncharacterized protein","A0A0R1GEY7_9LACO",0.43113
+"240","V31","Lactobacillus","Uncharacterized protein","A0A0R1GEY7_9LACO",0.43582
+"241","V16","Lactobacillus","Maltose phosphorylase","A0A0R1GF19_9LACO",2.6706
+"242","V22","Lactobacillus","D-alanine--D-alanine ligase","A0A0R1GG98_9LACO",0.86226
+"243","V16","Lactobacillus","N-acetylglucosamine kinase","A0A0R1GH13_9LACO",0.89019
+"244","V22","Lactobacillus","N-acetylglucosamine kinase","A0A0R1GH13_9LACO",0.86226
+"245","V10","Lactobacillus","Surface layer protein","A0A0R1GH39_9LACO",0.93084
+"246","V21","Lactobacillus","Surface layer protein","A0A0R1GH39_9LACO",3.6145
+"247","V1O","Lactobacillus","Transcription elongation factor GreA","A0A0R1GHX8_9LACO",1.1985
+"248","V21","Lactobacillus","Transcription elongation factor GreA","A0A0R1GHX8_9LACO",0.60241
+"249","V22","Lactobacillus","Transcription elongation factor GreA","A0A0R1GHX8_9LACO",1.2934
+"250","V30","Lactobacillus","Transcription elongation factor GreA","A0A0R1GHX8_9LACO",2.8771
+"251","V22","Lactobacillus","Aspartate carbamoyltransferase","A0A0R1GI18_9LACO",0.86226
+"252","V22","Lactobacillus","Bifunctional protein PyrR","A0A0R1GI22_9LACO",0.86226
+"253","V10","Lactobacillus","M22 family O-sialoglycoprotein endopeptidase","A0A0R1GI59_9LACO",0.93084
+"254","V22","Lactobacillus","M22 family O-sialoglycoprotein endopeptidase","A0A0R1GI59_9LACO",0.86226
+"255","V30","Lactobacillus","M22 family O-sialoglycoprotein endopeptidase","A0A0R1GI59_9LACO",0.57542
+"256","V16","Lactobacillus","Uncharacterized protein","A0A0R1GID0_9LACO",3.5608
+"257","V22","Lactobacillus","Uncharacterized protein","A0A0R1GID0_9LACO",2.5868
+"258","V31","Lactobacillus","Uncharacterized protein","A0A0R1GID0_9LACO",0.43582
+"259","V10","Lactobacillus","Orotate phosphoribosyltransferase","A0A0R1GIN9_9LACO",0.93084
+"260","V16","Lactobacillus","Citrate lyase alpha chain","A0A0R1GIT3_9LACO",0.89019
+"261","V22","Lactobacillus","Citrate lyase alpha chain","A0A0R1GIT3_9LACO",1.2934
+"262","V06","Lactobacillus","Lysin","A0A0R1GIW8_9LACO",2.6838
+"263","V10","Lactobacillus","Lysin","A0A0R1GIW8_9LACO",0.93084
+"264","V11","Lactobacillus","Lysin","A0A0R1GIW8_9LACO",0.81588
+"265","V1O","Lactobacillus","Lysin","A0A0R1GIW8_9LACO",1.1985
+"266","V21","Lactobacillus","Lysin","A0A0R1GIW8_9LACO",0.60241
+"267","V22","Lactobacillus","Lysin","A0A0R1GIW8_9LACO",2.1557
+"268","V31","Lactobacillus","Lysin","A0A0R1GIW8_9LACO",0.43582
+"269","V32","Lactobacillus","Lysin","A0A0R1GIW8_9LACO",1.6706
+"270","V16","Lactobacillus","UPF0342 protein FC28_GL000711","A0A0R1GJ05_9LACO",2.6706
+"271","V22","Lactobacillus","UPF0342 protein FC28_GL000711","A0A0R1GJ05_9LACO",0.86226
+"272","V31","Lactobacillus","UPF0342 protein FC28_GL000711","A0A0R1GJ05_9LACO",0.43582
+"273","V32","Lactobacillus","UPF0342 protein FC28_GL000711","A0A0R1GJ05_9LACO",1.6706
+"274","V10","Lactobacillus","Glutamate--tRNA ligase","A0A0R1GJ26_9LACO",0.93084
+"275","V16","Lactobacillus","Glutamate--tRNA ligase","A0A0R1GJ26_9LACO",1.7804
+"276","V22","Lactobacillus","Glutamate--tRNA ligase","A0A0R1GJ26_9LACO",1.7245
+"277","V22","Lactobacillus","Thymidylate synthase","A0A0R1GJ39_9LACO",0.86226
+"278","V31","Lactobacillus","Thymidylate synthase","A0A0R1GJ39_9LACO",0.43582
+"279","V11","Lactobacillus","Uncharacterized protein","A0A0R1GJA3_9LACO",0.81588
+"280","V16","Lactobacillus","Uncharacterized protein","A0A0R1GJA3_9LACO",4.451
+"281","V1O","Lactobacillus","Uncharacterized protein","A0A0R1GJA3_9LACO",3.5954
+"282","V22","Lactobacillus","Uncharacterized protein","A0A0R1GJA3_9LACO",3.449
+"283","V28","Lactobacillus","Uncharacterized protein","A0A0R1GJA3_9LACO",0.99991
+"284","V31","Lactobacillus","Uncharacterized protein","A0A0R1GJA3_9LACO",0.87165
+"285","V9L","Lactobacillus","Uncharacterized protein","A0A0R1GJA3_9LACO",5.0422
+"286","V32","Lactobacillus","Phenylalanine--tRNA ligase beta subunit","A0A0R1GJA6_9LACO",1.6706
+"287","V22","Lactobacillus","Phospho-beta-galactosidase I","A0A0R1GJT2_9LACO",0.86226
+"288","V06","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",1.7892
+"289","V10","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",2.3271
+"290","V14","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",11.859
+"291","V15L","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",6.6199
+"292","V16","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",5.3412
+"293","V1O","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",1.1985
+"294","V21","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",3.0121
+"295","V22","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",3.449
+"296","V25","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",1.7504
+"297","V30","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",1.7263
+"298","V31","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",1.7433
+"299","V32","Lactobacillus","Trigger factor","A0A0R1GK67_9LACO",5.5686
+"300","V10","Lactobacillus","Thioredoxin","A0A0R1GKQ4_9LACO",0.93084
+"301","V16","Lactobacillus","Thioredoxin","A0A0R1GKQ4_9LACO",0.89019
+"302","V21","Lactobacillus","Thioredoxin","A0A0R1GKQ4_9LACO",0.60241
+"303","V22","Lactobacillus","Thioredoxin","A0A0R1GKQ4_9LACO",1.2934
+"304","V30","Lactobacillus","Thioredoxin","A0A0R1GKQ4_9LACO",0.57542
+"305","V31","Lactobacillus","Thioredoxin","A0A0R1GKQ4_9LACO",0.43582
+"306","V06","Lactobacillus","10 kDa chaperonin","A0A0R1GKR7_9LACO",0.89462
+"307","V10","Lactobacillus","10 kDa chaperonin","A0A0R1GKR7_9LACO",1.3963
+"308","V11","Lactobacillus","10 kDa chaperonin","A0A0R1GKR7_9LACO",0.81588
+"309","V1O","Lactobacillus","10 kDa chaperonin","A0A0R1GKR7_9LACO",1.1985
+"310","V21","Lactobacillus","10 kDa chaperonin","A0A0R1GKR7_9LACO",0.60241
+"311","V22","Lactobacillus","10 kDa chaperonin","A0A0R1GKR7_9LACO",0.43113
+"312","V25","Lactobacillus","10 kDa chaperonin","A0A0R1GKR7_9LACO",1.7504
+"313","V31","Lactobacillus","10 kDa chaperonin","A0A0R1GKR7_9LACO",1.3075
+"314","V32","Lactobacillus","10 kDa chaperonin","A0A0R1GKR7_9LACO",3.3412
+"315","V22","Lactobacillus","Glucose-6-phosphate 1-dehydrogenase","A0A0R1GKS5_9LACO",0.86226
+"316","V06","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",2.6838
+"317","V10","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",3.2579
+"318","V11","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",2.4476
+"319","V15L","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",6.6199
+"320","V16","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",1.7804
+"321","V1O","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",3.5954
+"322","V21","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",3.0121
+"323","V22","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",4.7424
+"324","V23","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",0.7692
+"325","V25","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",5.2511
+"326","V28","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",0.49996
+"327","V30","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",2.8771
+"328","V31","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",3.4866
+"329","V32","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",11.137
+"330","V9L","Lactobacillus","60 kDa chaperonin","A0A0R1GKY3_9LACO",2.5211
+"331","V16","Lactobacillus","Glycerone kinase","A0A0R1GL20_9LACO",1.7804
+"332","V22","Lactobacillus","Glycerone kinase","A0A0R1GL20_9LACO",0.86226
+"333","V06","Lactobacillus","Glutamine synthetase","A0A0R1GLC5_9LACO",1.7892
+"334","V10","Lactobacillus","Glutamine synthetase","A0A0R1GLC5_9LACO",1.8617
+"335","V16","Lactobacillus","Glutamine synthetase","A0A0R1GLC5_9LACO",0.89019
+"336","V1O","Lactobacillus","Glutamine synthetase","A0A0R1GLC5_9LACO",2.397
+"337","V21","Lactobacillus","Glutamine synthetase","A0A0R1GLC5_9LACO",1.2048
+"338","V22","Lactobacillus","Glutamine synthetase","A0A0R1GLC5_9LACO",2.5868
+"339","V30","Lactobacillus","Glutamine synthetase","A0A0R1GLC5_9LACO",2.3017
+"340","V31","Lactobacillus","Glutamine synthetase","A0A0R1GLC5_9LACO",0.87165
+"341","V32","Lactobacillus","Glutamine synthetase","A0A0R1GLC5_9LACO",2.7843
+"342","V16","Lactobacillus","Glycolate oxidase","A0A0R1GLD3_9LACO",0.89019
+"343","V22","Lactobacillus","Glycolate oxidase","A0A0R1GLD3_9LACO",0.86226
+"344","V22","Lactobacillus","NAD(P)H dehydrogenase (Quinone)","A0A0R1GLG6_9LACO",0.86226
+"345","V10","Lactobacillus","DNA-binding protein HU","A0A0R1GM21_9LACO",0.93084
+"346","V10","Lactobacillus","Thermostable pullulanase","A0A0R1GM86_9LACO",1.3963
+"347","V21","Lactobacillus","Thermostable pullulanase","A0A0R1GM86_9LACO",6.6266
+"348","V25","Lactobacillus","Thermostable pullulanase","A0A0R1GM86_9LACO",1.7504
+"349","V16","Lactobacillus","Phosphoenolpyruvate-protein phosphotransferase","A0A0R1GMB3_9LACO",0.89019
+"350","V22","Lactobacillus","Phosphoenolpyruvate-protein phosphotransferase","A0A0R1GMB3_9LACO",2.1557
+"351","V02","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",1.2631
+"352","V06","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",8.0515
+"353","V10","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",6.5159
+"354","V11","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",4.0794
+"355","V14","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",11.859
+"356","V15","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",1.5066
+"357","V15L","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",16.55
+"358","V16","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",8.9019
+"359","V17","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",0.42086
+"360","V1O","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",11.985
+"361","V21","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",4.2169
+"362","V22","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",10.347
+"363","V25","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",5.2511
+"364","V30","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",9.7822
+"365","V31","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",6.5374
+"366","V32","Lactobacillus","Pyruvate kinase","A0A0R1GMC9_9LACO",11.137
+"367","V1O","Lactobacillus","ABC superfamily ATP binding cassette transporter binding protein","A0A0R1GME0_9LACO",1.1985
+"368","V22","Lactobacillus","ABC superfamily ATP binding cassette transporter binding protein","A0A0R1GME0_9LACO",0.86226
+"369","V06","Lactobacillus","ATP-dependent 6-phosphofructokinase","A0A0R1GMJ1_9LACO",0.89462
+"370","V11","Lactobacillus","ATP-dependent 6-phosphofructokinase","A0A0R1GMJ1_9LACO",1.6318
+"371","V16","Lactobacillus","ATP-dependent 6-phosphofructokinase","A0A0R1GMJ1_9LACO",2.6706
+"372","V22","Lactobacillus","ATP-dependent 6-phosphofructokinase","A0A0R1GMJ1_9LACO",1.7245
+"373","V31","Lactobacillus","ATP-dependent 6-phosphofructokinase","A0A0R1GMJ1_9LACO",0.87165
+"374","V32","Lactobacillus","ATP-dependent 6-phosphofructokinase","A0A0R1GMJ1_9LACO",3.3412
+"375","V16","Lactobacillus","30S ribosomal protein S2","A0A0R1GML3_9LACO",1.7804
+"376","V22","Lactobacillus","30S ribosomal protein S2","A0A0R1GML3_9LACO",1.2934
+"377","V31","Lactobacillus","30S ribosomal protein S2","A0A0R1GML3_9LACO",0.87165
+"378","V16","Lactobacillus","Proline--tRNA ligase","A0A0R1GMS3_9LACO",1.7804
+"379","V22","Lactobacillus","Proline--tRNA ligase","A0A0R1GMS3_9LACO",0.86226
+"380","V16","Lactobacillus","Aspartate--tRNA ligase","A0A0R1GMU3_9LACO",2.6706
+"381","V22","Lactobacillus","Thioredoxin reductase","A0A0R1GN15_9LACO",0.86226
+"382","V11","Lactobacillus","Elongation factor Tu","A0A0R1GNE1_9LACO",1.6318
+"383","V15","Lactobacillus","Elongation factor Tu","A0A0R1GNE1_9LACO",1.5066
+"384","V16","Lactobacillus","Elongation factor Tu","A0A0R1GNE1_9LACO",6.2313
+"385","V1O","Lactobacillus","Elongation factor Tu","A0A0R1GNE1_9LACO",1.1985
+"386","V22","Lactobacillus","Elongation factor Tu","A0A0R1GNE1_9LACO",6.0358
+"387","V28","Lactobacillus","Elongation factor Tu","A0A0R1GNE1_9LACO",0.49996
+"388","V31","Lactobacillus","Elongation factor Tu","A0A0R1GNE1_9LACO",3.4866
+"389","V15L","Lactobacillus","DNA-directed RNA polymerase subunit alpha","A0A0R1GP39_9LACO",3.3099
+"390","V16","Lactobacillus","DNA-directed RNA polymerase subunit alpha","A0A0R1GP39_9LACO",2.6706
+"391","V1O","Lactobacillus","DNA-directed RNA polymerase subunit alpha","A0A0R1GP39_9LACO",1.1985
+"392","V22","Lactobacillus","DNA-directed RNA polymerase subunit alpha","A0A0R1GP39_9LACO",1.2934
+"393","V10","Lactobacillus","50S ribosomal protein L6","A0A0R1GP46_9LACO",1.3963
+"394","V11","Lactobacillus","50S ribosomal protein L6","A0A0R1GP46_9LACO",0.81588
+"395","V15L","Lactobacillus","50S ribosomal protein L6","A0A0R1GP46_9LACO",3.3099
+"396","V1O","Lactobacillus","50S ribosomal protein L6","A0A0R1GP46_9LACO",1.1985
+"397","V21","Lactobacillus","50S ribosomal protein L6","A0A0R1GP46_9LACO",0.60241
+"398","V22","Lactobacillus","50S ribosomal protein L6","A0A0R1GP46_9LACO",0.86226
+"399","V30","Lactobacillus","50S ribosomal protein L6","A0A0R1GP46_9LACO",0.57542
+"400","V31","Lactobacillus","50S ribosomal protein L6","A0A0R1GP46_9LACO",0.87165
+"401","V15","Lactobacillus","Elongation factor G","A0A0R1GP65_9LACO",0.75332
+"402","V16","Lactobacillus","Elongation factor G","A0A0R1GP65_9LACO",4.451
+"403","V22","Lactobacillus","Elongation factor G","A0A0R1GP65_9LACO",1.7245
+"404","V31","Lactobacillus","Elongation factor G","A0A0R1GP65_9LACO",0.43582
+"405","V10","Lactobacillus","50S ribosomal protein L31 type B","A0A0R1GPC5_9LACO",0.93084
+"406","V21","Lactobacillus","50S ribosomal protein L31 type B","A0A0R1GPC5_9LACO",0.60241
+"407","V22","Lactobacillus","50S ribosomal protein L31 type B","A0A0R1GPC5_9LACO",1.2934
+"408","V31","Lactobacillus","50S ribosomal protein L31 type B","A0A0R1GPC5_9LACO",0.87165
+"409","V10","Lactobacillus","Peptidoglycan-binding protein","A0A0R1GPD9_9LACO",0.93084
+"410","V11","Lactobacillus","Peptidoglycan-binding protein","A0A0R1GPD9_9LACO",2.4476
+"411","V14","Lactobacillus","Peptidoglycan-binding protein","A0A0R1GPD9_9LACO",83.012
+"412","V15","Lactobacillus","Peptidoglycan-binding protein","A0A0R1GPD9_9LACO",1.5066
+"413","V16","Lactobacillus","Peptidoglycan-binding protein","A0A0R1GPD9_9LACO",4.451
+"414","V21","Lactobacillus","Peptidoglycan-binding protein","A0A0R1GPD9_9LACO",0.60241
+"415","V22","Lactobacillus","Peptidoglycan-binding protein","A0A0R1GPD9_9LACO",1.2934
+"416","V25","Lactobacillus","Peptidoglycan-binding protein","A0A0R1GPD9_9LACO",1.7504
+"417","V10","Lactobacillus","Aminopeptidase c","A0A0R1GPJ1_9LACO",0.93084
+"418","V11","Lactobacillus","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A0R1GPK1_9LACO",0.81588
+"419","V16","Lactobacillus","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A0R1GPK1_9LACO",3.5608
+"420","V22","Lactobacillus","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A0R1GPK1_9LACO",2.5868
+"421","V23","Lactobacillus","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A0R1GPK1_9LACO",0.7692
+"422","V31","Lactobacillus","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A0R1GPK1_9LACO",2.1791
+"423","V15","Lactobacillus","50S ribosomal protein L2","A0A0R1GPK2_9LACO",0.75332
+"424","V16","Lactobacillus","50S ribosomal protein L2","A0A0R1GPK2_9LACO",3.5608
+"425","V1O","Lactobacillus","50S ribosomal protein L2","A0A0R1GPK2_9LACO",1.1985
+"426","V22","Lactobacillus","50S ribosomal protein L2","A0A0R1GPK2_9LACO",1.2934
+"427","V31","Lactobacillus","50S ribosomal protein L2","A0A0R1GPK2_9LACO",0.87165
+"428","V06","Lactobacillus","L-lactate dehydrogenase","A0A0R1GPL9_9LACO",3.5785
+"429","V11","Lactobacillus","L-lactate dehydrogenase","A0A0R1GPL9_9LACO",0.81588
+"430","V16","Lactobacillus","L-lactate dehydrogenase","A0A0R1GPL9_9LACO",1.7804
+"431","V1O","Lactobacillus","L-lactate dehydrogenase","A0A0R1GPL9_9LACO",2.397
+"432","V22","Lactobacillus","L-lactate dehydrogenase","A0A0R1GPL9_9LACO",2.1557
+"433","V27","Lactobacillus","L-lactate dehydrogenase","A0A0R1GPL9_9LACO",0.93525
+"434","V31","Lactobacillus","L-lactate dehydrogenase","A0A0R1GPL9_9LACO",1.7433
+"435","V32","Lactobacillus","L-lactate dehydrogenase","A0A0R1GPL9_9LACO",3.3412
+"436","V11","Lactobacillus","Uncharacterized protein","A0A0R1GPM8_9LACO",0.81588
+"437","V16","Lactobacillus","Uncharacterized protein","A0A0R1GPM8_9LACO",0.89019
+"438","V22","Lactobacillus","Uncharacterized protein","A0A0R1GPM8_9LACO",1.2934
+"439","V31","Lactobacillus","Uncharacterized protein","A0A0R1GPM8_9LACO",0.43582
+"440","V22","Lactobacillus","Dipeptidase","A0A0R1GQ04_9LACO",0.86226
+"441","V16","Lactobacillus","DNA-directed RNA polymerase subunit beta'","A0A0R1GQ34_9LACO",2.6706
+"442","V15L","Lactobacillus","Foldase protein PrsA","A0A0R1GQ59_9LACO",3.3099
+"443","V16","Lactobacillus","Foldase protein PrsA","A0A0R1GQ59_9LACO",0.89019
+"444","V1O","Lactobacillus","Foldase protein PrsA","A0A0R1GQ59_9LACO",2.397
+"445","V22","Lactobacillus","Foldase protein PrsA","A0A0R1GQ59_9LACO",0.43113
+"446","V10","Lactobacillus","Glycerol-3-phosphate ABC transporter","A0A0R1GQ77_9LACO",1.3963
+"447","V16","Lactobacillus","Glycerol-3-phosphate ABC transporter","A0A0R1GQ77_9LACO",0.89019
+"448","V22","Lactobacillus","Glycerol-3-phosphate ABC transporter","A0A0R1GQ77_9LACO",0.86226
+"449","V16","Lactobacillus","Phosphoenolpyruvate carboxykinase (ATP)","A0A0R1GQM5_9LACO",0.89019
+"450","V21","Lactobacillus","Phosphoenolpyruvate carboxykinase (ATP)","A0A0R1GQM5_9LACO",0.60241
+"451","V22","Lactobacillus","Phosphoenolpyruvate carboxykinase (ATP)","A0A0R1GQM5_9LACO",1.2934
+"452","V30","Lactobacillus","Phosphoenolpyruvate carboxykinase (ATP)","A0A0R1GQM5_9LACO",1.1508
+"453","V16","Lactobacillus","PTS system cellobiose-specific iia component","A0A0R1GR77_9LACO",2.6706
+"454","V22","Lactobacillus","PTS system cellobiose-specific iia component","A0A0R1GR77_9LACO",0.43113
+"455","V1O","Lactobacillus","50S ribosomal protein L1","A0A0R1GRJ1_9LACO",1.1985
+"456","V22","Lactobacillus","50S ribosomal protein L1","A0A0R1GRJ1_9LACO",0.86226
+"457","V31","Lactobacillus","50S ribosomal protein L1","A0A0R1GRJ1_9LACO",0.43582
+"458","V10","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",1.8617
+"459","V11","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",1.6318
+"460","V15","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",0.75332
+"461","V15L","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",3.3099
+"462","V16","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",0.89019
+"463","V1O","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",1.1985
+"464","V21","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",1.8072
+"465","V22","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",2.5868
+"466","V30","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",1.7263
+"467","V31","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",1.7433
+"468","V32","Lactobacillus","30S ribosomal protein S1","A0A0R1GRZ4_9LACO",2.7843
+"469","V22","Lactobacillus","Uncharacterized protein","A0A0R1GSK0_9LACO",1.2934
+"470","V31","Lactobacillus","Uncharacterized protein","A0A0R1GSK0_9LACO",0.43582
+"471","V22","Lactobacillus","L-lactate dehydrogenase","A0A0R1GSX0_9LACO",1.2934
+"472","V02","Lactobacillus","Dipeptidase","A0A0R1GT06_9LACO",1.2631
+"473","V06","Lactobacillus","Dipeptidase","A0A0R1GT06_9LACO",0.89462
+"474","V10","Lactobacillus","Dipeptidase","A0A0R1GT06_9LACO",2.3271
+"475","V21","Lactobacillus","Dipeptidase","A0A0R1GT06_9LACO",0.60241
+"476","V25","Lactobacillus","Dipeptidase","A0A0R1GT06_9LACO",3.5007
+"477","V30","Lactobacillus","Dipeptidase","A0A0R1GT06_9LACO",2.8771
+"478","V32","Lactobacillus","Dipeptidase","A0A0R1GT06_9LACO",5.0118
+"479","V05","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",0.81441
+"480","V06","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",8.9462
+"481","V10","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",8.3776
+"482","V11","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",1.6318
+"483","V15","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",0.75332
+"484","V15L","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",9.9298
+"485","V16","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",7.1215
+"486","V1O","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",4.7939
+"487","V21","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",5.4217
+"488","V22","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",6.467
+"489","V25","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",3.5007
+"490","V30","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",5.7542
+"491","V31","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",5.6657
+"492","V32","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",13.365
+"493","V9L","Lactobacillus","Phosphoglycerate kinase","A0A0R1GT20_9LACO",2.5211
+"494","V32","Lactobacillus","Elongation factor Ts","A0A0R1GUQ8_9LACO",1.6706
+"495","V02","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",2.5263
+"496","V06","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",2.6838
+"497","V10","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",2.7925
+"498","V11","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",0.81588
+"499","V13","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",1.0387
+"500","V16","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",0.89019
+"501","V1O","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",1.1985
+"502","V21","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",1.2048
+"503","V22","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",3.0179
+"504","V30","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",1.7263
+"505","V31","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",2.6149
+"506","V32","Lactobacillus","Triosephosphate isomerase","A0A0R1GV33_9LACO",8.3529
+"507","V06","Lactobacillus","Chaperone protein DnaK","A0A0R1GV63_9LACO",0.89462
+"508","V32","Lactobacillus","Chaperone protein DnaK","A0A0R1GV63_9LACO",2.2275
+"509","V22","Lactobacillus","Ribosome-recycling factor","A0A0R1GV81_9LACO",0.86226
+"510","V06","Lactobacillus","Cell wall-associated hydrolase","A0A0R1GVP6_9LACO",1.7892
+"511","V10","Lactobacillus","Cell wall-associated hydrolase","A0A0R1GVP6_9LACO",0.46542
+"512","V15","Lactobacillus","Cell wall-associated hydrolase","A0A0R1GVP6_9LACO",0.75332
+"513","V16","Lactobacillus","Cell wall-associated hydrolase","A0A0R1GVP6_9LACO",1.7804
+"514","V21","Lactobacillus","Cell wall-associated hydrolase","A0A0R1GVP6_9LACO",1.8072
+"515","V22","Lactobacillus","Cell wall-associated hydrolase","A0A0R1GVP6_9LACO",1.2934
+"516","V31","Lactobacillus","Cell wall-associated hydrolase","A0A0R1GVP6_9LACO",1.3075
+"517","V32","Lactobacillus","Cell wall-associated hydrolase","A0A0R1GVP6_9LACO",1.1137
+"518","V02","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",2.5263
+"519","V06","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",11.63
+"520","V10","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",9.3084
+"521","V11","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",4.0794
+"522","V15","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",1.5066
+"523","V15L","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",9.9298
+"524","V16","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",8.0117
+"525","V17","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",0.42086
+"526","V1L","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",18.623
+"527","V1O","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",9.5878
+"528","V21","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",7.229
+"529","V22","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",11.641
+"530","V25","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",12.252
+"531","V27","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",6.5467
+"532","V28","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",0.99991
+"533","V30","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",7.4805
+"534","V31","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",8.2806
+"535","V32","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1GVT3_9LACO",20.047
+"536","V1O","Lactobacillus","50S ribosomal protein L23","A0A0R1GWB6_9LACO",1.1985
+"537","V22","Lactobacillus","50S ribosomal protein L23","A0A0R1GWB6_9LACO",0.86226
+"538","V28","Lactobacillus","50S ribosomal protein L23","A0A0R1GWB6_9LACO",0.49996
+"539","V31","Lactobacillus","50S ribosomal protein L23","A0A0R1GWB6_9LACO",0.87165
+"540","V11","Lactobacillus","Uncharacterized protein","A0A0R1GWF6_9LACO",4.0794
+"541","V17","Lactobacillus","Uncharacterized protein","A0A0R1GWF6_9LACO",1.2626
+"542","V10","Lactobacillus","NADH peroxidase","A0A0R1GX32_9LACO",4.1888
+"543","V32","Lactobacillus","NADH peroxidase","A0A0R1GX32_9LACO",3.898
+"544","V16","Lactobacillus","50S ribosomal protein L30","A0A0R1GX56_9LACO",0.89019
+"545","V22","Lactobacillus","50S ribosomal protein L30","A0A0R1GX56_9LACO",0.86226
+"546","V31","Lactobacillus","50S ribosomal protein L30","A0A0R1GX56_9LACO",0.43582
+"547","V22","Lactobacillus","50S ribosomal protein L9","A0A0R1GX63_9LACO",0.86226
+"548","V22","Lactobacillus","50S ribosomal protein L4","A0A0R1GX71_9LACO",1.2934
+"549","V31","Lactobacillus","50S ribosomal protein L4","A0A0R1GX71_9LACO",0.87165
+"550","V10","Lactobacillus","Serine hydroxymethyltransferase","A0A0R1GXC3_9LACO",0.93084
+"551","V06","Lactobacillus","Bacterial surface layer protein","A0A0R1GXY4_9LACO",10.735
+"552","V10","Lactobacillus","Bacterial surface layer protein","A0A0R1GXY4_9LACO",2.7925
+"553","V11","Lactobacillus","Bacterial surface layer protein","A0A0R1GXY4_9LACO",4.8953
+"554","V15","Lactobacillus","Bacterial surface layer protein","A0A0R1GXY4_9LACO",1.5066
+"555","V16","Lactobacillus","Bacterial surface layer protein","A0A0R1GXY4_9LACO",0.89019
+"556","V21","Lactobacillus","Bacterial surface layer protein","A0A0R1GXY4_9LACO",4.2169
+"557","V22","Lactobacillus","Bacterial surface layer protein","A0A0R1GXY4_9LACO",4.3113
+"558","V25","Lactobacillus","Bacterial surface layer protein","A0A0R1GXY4_9LACO",1.7504
+"559","V31","Lactobacillus","Bacterial surface layer protein","A0A0R1GXY4_9LACO",2.6149
+"560","V32","Lactobacillus","Bacterial surface layer protein","A0A0R1GXY4_9LACO",9.4667
+"561","V16","Lactobacillus","Glutamyl-tRNA(Gln) amidotransferase subunit A","A0A0R1H055_9LACO",3.5608
+"562","V22","Lactobacillus","Glutamyl-tRNA(Gln) amidotransferase subunit A","A0A0R1H055_9LACO",1.7245
+"563","V30","Lactobacillus","Uncharacterized protein","A0A0R1HFL4_LACAM",3.4525
+"564","V02","Lactobacillus","Fructose-bisphosphate aldolase","A0A0R1NT17_9LACO",1.2631
+"565","V10","Lactobacillus","Fructose-bisphosphate aldolase","A0A0R1NT17_9LACO",6.9813
+"566","V13","Lactobacillus","Fructose-bisphosphate aldolase","A0A0R1NT17_9LACO",1.0387
+"567","V17","Lactobacillus","Fructose-bisphosphate aldolase","A0A0R1NT17_9LACO",0.42086
+"568","V21","Lactobacillus","Fructose-bisphosphate aldolase","A0A0R1NT17_9LACO",0.60241
+"569","V25","Lactobacillus","Fructose-bisphosphate aldolase","A0A0R1NT17_9LACO",7.0014
+"570","V30","Lactobacillus","Fructose-bisphosphate aldolase","A0A0R1NT17_9LACO",5.1788
+"571","V6O","Lactobacillus","Fructose-bisphosphate aldolase","A0A0R1NT17_9LACO",2.1485
+"572","V30","Lactobacillus","Trigger factor","A0A0R1NVY8_9LACO",1.7263
+"573","V32","Lactobacillus","Phosphoenolpyruvate carboxykinase (ATP)","A0A0R1NWQ5_9LACO",2.2275
+"574","V30","Lactobacillus","PTS system arbutin-like IIBC component","A0A0R1NWR0_9LACO",1.7263
+"575","V10","Lactobacillus","Elongation factor Ts","A0A0R1P624_9LACO",0.93084
+"576","V30","Lactobacillus","Elongation factor Ts","A0A0R1P624_9LACO",1.7263
+"577","V30","Lactobacillus","Aldehyde-alcohol dehydrogenase","A0A0R1PLG4_9LACO",1.1508
+"578","V28","Lactobacillus","Triosephosphate isomerase","A0A0R1S4S9_9LACO",0.99991
+"579","V9L","Lactobacillus","Triosephosphate isomerase","A0A0R1S4S9_9LACO",2.5211
+"580","V28","Lactobacillus","Maltose ABC transporter permease","A0A0R1S5M6_9LACO",0.99991
+"581","V28","Lactobacillus","Elongation factor Tu","A0A0R1SA64_9LACO",1.9998
+"582","V28","Lactobacillus","Enolase","A0A0R1SBG7_9LACO",4.4996
+"583","NV7","Lactobacillus","Glyceraldehyde-3-p dehydrogenase","A0A0R1UAC3_9LACO",1.658
+"584","V05","Lactobacillus","Glyceraldehyde-3-p dehydrogenase","A0A0R1UAC3_9LACO",0.81441
+"585","V13","Lactobacillus","Glyceraldehyde-3-p dehydrogenase","A0A0R1UAC3_9LACO",1.0387
+"586","V30","Lactobacillus","Glyceraldehyde-3-p dehydrogenase","A0A0R1UAC3_9LACO",13.81
+"587","NV7","Lactobacillus","Fructose-bisphosphate aldolase 2","A0A0R1UJJ0_9LACO",1.658
+"588","V02","Lactobacillus","Fructose-bisphosphate aldolase 2","A0A0R1UJJ0_9LACO",2.5263
+"589","V30","Lactobacillus","Fructose-bisphosphate aldolase 2","A0A0R1UJJ0_9LACO",8.0559
+"590","V16","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1VFT8_9LACO",7.1215
+"591","V1O","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1VFT8_9LACO",7.1909
+"592","V22","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1VFT8_9LACO",7.3292
+"593","V28","Lactobacillus","Glyceraldehyde-3-phosphate dehydrogenase","A0A0R1VFT8_9LACO",1.4999
+"594","V9L","Lactobacillus","Phosphoglycerate kinase","A0A0R1YLX6_9LACO",2.5211
+"595","V30","Lactobacillus","Myosin-cross-reactive antigen","A0A0R2KJD4_LACAM",3.4525
+"596","V30","Lactobacillus","Tagatose-6-phosphate kinase","A0A0R2MJR7_LACHE",2.8771
+"597","V30","Lactobacillus","Gamma-glutamyl-gamma-aminobutyrate hydrolase","A0A0R2MK77_LACHE",1.7263
+"598","V30","Lactobacillus","Thioredoxin","A0A0R2MQI1_LACHE",2.3017
+"599","V30","Lactobacillus","Atp-dependent clp protease atp-binding subunit","A0A0R2MRZ0_LACHE",5.7542
+"600","V10","Lactobacillus","Uncharacterized protein","A0A109DCE4_9LACO",0.93084
+"601","V25","Lactobacillus","Uncharacterized protein","A0A109DCE4_9LACO",1.7504
+"602","V11","Lactobacillus","Fructose-bisphosphate aldolase","A0A109DCW3_9LACO",1.6318
+"603","V14","Lactobacillus","Fructose-bisphosphate aldolase","A0A109DCW3_9LACO",11.859
+"604","V15","Lactobacillus","Fructose-bisphosphate aldolase","A0A109DCW3_9LACO",0.75332
+"605","V15L","Lactobacillus","Fructose-bisphosphate aldolase","A0A109DCW3_9LACO",3.3099
+"606","V16","Lactobacillus","Fructose-bisphosphate aldolase","A0A109DCW3_9LACO",7.1215
+"607","V1O","Lactobacillus","Fructose-bisphosphate aldolase","A0A109DCW3_9LACO",3.5954
+"608","V22","Lactobacillus","Fructose-bisphosphate aldolase","A0A109DCW3_9LACO",6.0358
+"609","V28","Lactobacillus","Fructose-bisphosphate aldolase","A0A109DCW3_9LACO",0.99991
+"610","V31","Lactobacillus","Fructose-bisphosphate aldolase","A0A109DCW3_9LACO",3.9224
+"611","V16","Lactobacillus","Asparagine--tRNA ligase","A0A109DD61_9LACO",1.7804
+"612","V22","Lactobacillus","Asparagine--tRNA ligase","A0A109DD61_9LACO",1.7245
+"613","V10","Lactobacillus","Pyruvate oxidase","A0A109DE36_9LACO",2.3271
+"614","V16","Lactobacillus","Pyruvate oxidase","A0A109DE36_9LACO",0.89019
+"615","V1O","Lactobacillus","Pyruvate oxidase","A0A109DE36_9LACO",2.397
+"616","V21","Lactobacillus","Pyruvate oxidase","A0A109DE36_9LACO",0.60241
+"617","V22","Lactobacillus","Pyruvate oxidase","A0A109DE36_9LACO",6.8981
+"618","V30","Lactobacillus","Pyruvate oxidase","A0A109DE36_9LACO",1.1508
+"619","V31","Lactobacillus","Pyruvate oxidase","A0A109DE36_9LACO",0.87165
+"620","V32","Lactobacillus","Pyruvate oxidase","A0A109DE36_9LACO",3.898
+"621","V16","Lactobacillus","Dipeptidase","A0A109DEG6_9LACO",4.451
+"622","V1O","Lactobacillus","Dipeptidase","A0A109DEG6_9LACO",1.1985
+"623","V22","Lactobacillus","Dipeptidase","A0A109DEG6_9LACO",2.5868
+"624","V15","Lactobacillus","Uncharacterized protein","A0A109DEN3_9LACO",0.75332
+"625","V16","Lactobacillus","Uncharacterized protein","A0A109DEN3_9LACO",0.89019
+"626","V22","Lactobacillus","Uncharacterized protein","A0A109DEN3_9LACO",2.5868
+"627","V31","Lactobacillus","Uncharacterized protein","A0A109DEN3_9LACO",3.0508
+"628","V32","Lactobacillus","Uncharacterized protein","A0A109DEN3_9LACO",4.4549
+"629","V22","Lactobacillus","4-methyl-5(B-hydroxyethyl)-thiazole monophosphate biosynthesis protein","A0A109DEX3_9LACO",0.86226
+"630","V22","Lactobacillus","Choloylglycine hydrolase","A0A109DF58_9LACO",3.8802
+"631","V10","Lactobacillus","Beta-phosphoglucomutase","A0A109DFH6_9LACO",0.93084
+"632","V16","Lactobacillus","Beta-phosphoglucomutase","A0A109DFH6_9LACO",0.89019
+"633","V21","Lactobacillus","Beta-phosphoglucomutase","A0A109DFH6_9LACO",1.2048
+"634","V22","Lactobacillus","Beta-phosphoglucomutase","A0A109DFH6_9LACO",0.86226
+"635","V30","Lactobacillus","Beta-phosphoglucomutase","A0A109DFH6_9LACO",0.57542
+"636","V31","Lactobacillus","Beta-phosphoglucomutase","A0A109DFH6_9LACO",0.87165
+"637","V22","Lactobacillus","ATP synthase subunit alpha","A0A109DJ15_9LACO",0.86226
+"638","V16","Lactobacillus","Alpha amylase catalytic domain protein","A0A109DJH8_9LACO",1.7804
+"639","V22","Lactobacillus","Alpha amylase catalytic domain protein","A0A109DJH8_9LACO",0.43113
+"640","V22","Lactobacillus","Acetate kinase","A0A109DN42_9LACO",1.2934
+"641","V16","Lactobacillus","Aminopeptidase","A0A109DND6_9LACO",1.7804
+"642","V22","Lactobacillus","Aminopeptidase","A0A109DND6_9LACO",1.7245
+"643","V10","Lactobacillus","30S ribosomal protein S8","A0A109DVI5_9LACO",0.93084
+"644","V16","Lactobacillus","30S ribosomal protein S8","A0A109DVI5_9LACO",2.6706
+"645","V22","Lactobacillus","30S ribosomal protein S8","A0A109DVI5_9LACO",1.2934
+"646","V28","Lactobacillus","30S ribosomal protein S8","A0A109DVI5_9LACO",0.49996
+"647","V30","Lactobacillus","30S ribosomal protein S8","A0A109DVI5_9LACO",0.57542
+"648","V31","Lactobacillus","30S ribosomal protein S8","A0A109DVI5_9LACO",0.43582
+"649","V32","Lactobacillus","30S ribosomal protein S8","A0A109DVI5_9LACO",1.6706
+"650","V02","Lactobacillus","Glucose-6-phosphate isomerase","A0A109DWU7_9LACO",1.2631
+"651","V06","Lactobacillus","Glucose-6-phosphate isomerase","A0A109DWU7_9LACO",3.5785
+"652","V11","Lactobacillus","Glucose-6-phosphate isomerase","A0A109DWU7_9LACO",0.81588
+"653","V16","Lactobacillus","Glucose-6-phosphate isomerase","A0A109DWU7_9LACO",4.451
+"654","V1O","Lactobacillus","Glucose-6-phosphate isomerase","A0A109DWU7_9LACO",2.397
+"655","V22","Lactobacillus","Glucose-6-phosphate isomerase","A0A109DWU7_9LACO",5.6047
+"656","V31","Lactobacillus","Glucose-6-phosphate isomerase","A0A109DWU7_9LACO",2.6149
+"657","V32","Lactobacillus","Glucose-6-phosphate isomerase","A0A109DWU7_9LACO",7.2392
+"658","V10","Lactobacillus","Threonine--tRNA ligase","A0A120DHS5_9LACO",0.93084
+"659","V10","Lactobacillus","Uncharacterized protein","A0A120DI13_9LACO",0.93084
+"660","V32","Lactobacillus","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A120DL24_9LACO",6.6824
+"661","V10","Lactobacillus","Uncharacterized protein","A0A120DM12_9LACO",1.3963
+"662","V21","Lactobacillus","Uncharacterized protein","A0A120DM12_9LACO",0.60241
+"663","V22","Lactobacillus","Uncharacterized protein","A0A120DM12_9LACO",1.2934
+"664","V25","Lactobacillus","Uncharacterized protein","A0A120DM12_9LACO",1.7504
+"665","V31","Lactobacillus","Uncharacterized protein","A0A120DM12_9LACO",1.7433
+"666","V32","Lactobacillus","Uncharacterized protein","A0A120DM12_9LACO",2.2275
+"667","V15L","Lactobacillus","Elongation factor Ts","A0A120DM34_9LACO",9.9298
+"668","V16","Lactobacillus","Elongation factor Ts","A0A120DM34_9LACO",0.89019
+"669","V1O","Lactobacillus","Elongation factor Ts","A0A120DM34_9LACO",2.397
+"670","V22","Lactobacillus","Elongation factor Ts","A0A120DM34_9LACO",2.1557
+"671","V22","Lactobacillus","ATP synthase subunit delta","A0A125P620_9LACO",0.86226
+"672","V10","Lactobacillus","Cell surface protein","A0A125P6A1_9LACO",1.3963
+"673","V11","Lactobacillus","Cell surface protein","A0A125P6A1_9LACO",0.81588
+"674","V16","Lactobacillus","Cell surface protein","A0A125P6A1_9LACO",0.89019
+"675","V1O","Lactobacillus","Cell surface protein","A0A125P6A1_9LACO",1.1985
+"676","V21","Lactobacillus","Cell surface protein","A0A125P6A1_9LACO",0.60241
+"677","V22","Lactobacillus","Cell surface protein","A0A125P6A1_9LACO",2.1557
+"678","V31","Lactobacillus","Cell surface protein","A0A125P6A1_9LACO",1.3075
+"679","V32","Lactobacillus","Phosphoenolpyruvate-protein phosphotransferase","A0A125P6I7_9LACO",3.3412
+"680","V06","Lactobacillus","Uncharacterized protein","A0A125P6L3_9LACO",2.6838
+"681","V10","Lactobacillus","Uncharacterized protein","A0A125P6L3_9LACO",0.93084
+"682","V11","Lactobacillus","Uncharacterized protein","A0A125P6L3_9LACO",3.2635
+"683","V21","Lactobacillus","Uncharacterized protein","A0A125P6L3_9LACO",1.8072
+"684","V22","Lactobacillus","Uncharacterized protein","A0A125P6L3_9LACO",1.7245
+"685","V31","Lactobacillus","Uncharacterized protein","A0A125P6L3_9LACO",1.3075
+"686","V32","Lactobacillus","Uncharacterized protein","A0A125P6L3_9LACO",1.6706
+"687","V10","Lactobacillus","Ferritin","A0A125P8H5_9LACO",0.93084
+"688","V16","Lactobacillus","Ferritin","A0A125P8H5_9LACO",0.89019
+"689","V21","Lactobacillus","Ferritin","A0A125P8H5_9LACO",1.2048
+"690","V22","Lactobacillus","Ferritin","A0A125P8H5_9LACO",1.2934
+"691","V22","Lactobacillus","Catabolite control protein A","A0A125P8T2_9LACO",0.86226
+"692","V20","Finegoldia","LPXTG-motif protein cell wall anchor domain protein","A0A133MTI5_FINMA",0.93095
+"693","V03","Gardnerella","Transketolase","A0A133NG58_GARVA",2.8266
+"694","V01","Gardnerella","Transaldolase","A0A133NG65_GARVA",4.0448
+"695","V08","Gardnerella","Transaldolase","A0A133NG65_GARVA",4.7076
+"696","V23","Gardnerella","Transaldolase","A0A133NG65_GARVA",3.0768
+"697","V23","Gardnerella","ABC transporter solute-binding protein","A0A133NJ01_GARVA",0.7692
+"698","V01","Gardnerella","Enolase","A0A133NS22_GARVA",4.8538
+"699","V03","Gardnerella","Enolase","A0A133NS22_GARVA",5.6532
+"700","V04","Gardnerella","Enolase","A0A133NS22_GARVA",2.7157
+"701","V23","Gardnerella","Enolase","A0A133NS22_GARVA",0.7692
+"702","V6O","Gardnerella","Enolase","A0A133NS22_GARVA",4.2969
+"703","V01","Gardnerella","Transketolase","A0A133NX84_GARVA",0.80897
+"704","V01","Gardnerella","Pyruvate kinase","A0A133NYX2_GARVA",1.6179
+"705","V03","Gardnerella","Pyruvate kinase","A0A133NYX2_GARVA",2.8266
+"706","V01","Gardnerella","Glucose-6-phosphate isomerase","A0A133P385_GARVA",0.80897
+"707","V17","Lactobacillus","Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase","A0A133P3X3_LACGS",0.84172
+"708","V17","Lactobacillus","Uncharacterized protein","A0A133P479_LACGS",1.2626
+"709","V27","Lactobacillus","Uncharacterized protein","A0A133P479_LACGS",10.288
+"710","V15","Lactobacillus","Signal peptide protein YSIRK family","A0A133P8E1_LACGS",1.5066
+"711","V27","Lactobacillus","Signal peptide protein YSIRK family","A0A133P8E1_LACGS",18.705
+"712","NV7","Peptoniphilus","Urocanate hydratase","A0A133PGV2_9FIRM",3.3161
+"713","V27","Lactobacillus","ABC transporter solute-binding protein","A0A133PHQ5_LACGS",7.482
+"714","V23","Peptoniphilus","Flavodoxin","A0A133PM34_9FIRM",1.5384
+"715","R3","Megasphaera","Butyryl-CoA dehydrogenase","A0A133SJZ1_9FIRM",3.6382
+"716","V01","Aerococcus","Putative ATP synthase F1 epsilon subunit (Fragment)","A0A133XPB7_9LACT",4.0448
+"717","V23","Veillonellaceae","Uncharacterized protein (Fragment)","A0A134CCX6_9FIRM",5.3844
+"718","V23","undistinguishable","Outer membrane protein","A0A134CE78_9FIRM",3.846
+"719","V23","undistinguishable","Electron transfer flavoprotein subunit beta","A0A134CFB3_9FIRM",2.3076
+"720","V23","undistinguishable","30S ribosomal protein S5","A0A134CJE2_9FIRM",1.5384
+"721","V23","undistinguishable","Flavodoxin","A0A134CLL5_9FIRM",1.5384
+"722","V01","Peptostreptococcus","Putative cell wall binding repeat 2","A0A135YM44_9FIRM",4.8538
+"723","V10","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YN38_9LACO",5.5851
+"724","V12","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YN38_9LACO",1.6714
+"725","V16","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YN38_9LACO",1.7804
+"726","V21","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YN38_9LACO",5.4217
+"727","V22","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YN38_9LACO",6.8981
+"728","V04","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YNS0_9LACO",1.3578
+"729","V10","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YNS0_9LACO",1.3963
+"730","V11","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YNS0_9LACO",1.6318
+"731","V16","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YNS0_9LACO",0.89019
+"732","V1O","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YNS0_9LACO",1.1985
+"733","V21","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YNS0_9LACO",0.60241
+"734","V22","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YNS0_9LACO",11.641
+"735","V23","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YNS0_9LACO",0.7692
+"736","V31","Lactobacillus","Bacterial surface layer protein (Fragment)","A0A135YNS0_9LACO",2.6149
+"737","V06","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",2.6838
+"738","V10","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",3.7234
+"739","V15","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",0.75332
+"740","V15L","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",3.3099
+"741","V1O","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",5.9924
+"742","V21","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",1.8072
+"743","V22","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",2.5868
+"744","V25","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",3.5007
+"745","V28","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",0.49996
+"746","V31","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",2.1791
+"747","V32","Lactobacillus","D-lactate dehydrogenase","A0A135YP76_9LACO",7.7961
+"748","V01","Peptostreptococcus","Glutamate dehydrogenase","A0A135YQT2_9FIRM",5.6628
+"749","V10","Lactobacillus","Uncharacterized protein","A0A135YRJ0_9LACO",3.7234
+"750","V21","Lactobacillus","Uncharacterized protein","A0A135YRJ0_9LACO",4.8193
+"751","V31","Lactobacillus","Uncharacterized protein","A0A135YRJ0_9LACO",0.87165
+"752","V10","Lactobacillus","Uncharacterized protein","A0A135YX51_9LACO",3.2579
+"753","V1O","Lactobacillus","50S ribosomal protein L11","A0A135Z201_9LACO",1.1985
+"754","V22","Lactobacillus","50S ribosomal protein L11","A0A135Z201_9LACO",1.2934
+"755","V16","Lactobacillus","Isoleucine--tRNA ligase","A0A135Z232_9LACO",2.6706
+"756","V10","Lactobacillus","Bacteriocin helveticin-J family protein","A0A135Z2J9_9LACO",2.3271
+"757","V06","Lactobacillus","Uncharacterized protein","A0A135Z2K9_9LACO",4.4731
+"758","V10","Lactobacillus","Uncharacterized protein","A0A135Z2L1_9LACO",0.93084
+"759","V11","Lactobacillus","Uncharacterized protein","A0A135Z2L1_9LACO",1.6318
+"760","V14","Lactobacillus","Uncharacterized protein","A0A135Z2L1_9LACO",23.718
+"761","V16","Lactobacillus","Uncharacterized protein","A0A135Z2L1_9LACO",0.89019
+"762","V21","Lactobacillus","Uncharacterized protein","A0A135Z2L1_9LACO",1.2048
+"763","V22","Lactobacillus","Uncharacterized protein","A0A135Z2L1_9LACO",0.86226
+"764","V16","Lactobacillus","GMP reductase","A0A135Z2M9_9LACO",0.89019
+"765","V22","Lactobacillus","GMP reductase","A0A135Z2M9_9LACO",0.86226
+"766","V10","Lactobacillus","Uncharacterized protein","A0A135Z2T7_9LACO",0.46542
+"767","V21","Lactobacillus","Uncharacterized protein","A0A135Z2T7_9LACO",1.8072
+"768","V10","Lactobacillus","Signal peptide protein YSIRK family","A0A135Z649_9LACO",2.7925
+"769","V15","Lactobacillus","Signal peptide protein YSIRK family","A0A135Z649_9LACO",6.0266
+"770","V16","Lactobacillus","Signal peptide protein YSIRK family","A0A135Z649_9LACO",2.6706
+"771","V25","Lactobacillus","Signal peptide protein YSIRK family","A0A135Z649_9LACO",14.003
+"772","V27","Lactobacillus","Signal peptide protein YSIRK family","A0A135Z649_9LACO",7.482
+"773","V10","Lactobacillus","Probable manganese-dependent inorganic pyrophosphatase","A0A135Z6P3_9LACO",1.8617
+"774","V16","Lactobacillus","Probable manganese-dependent inorganic pyrophosphatase","A0A135Z6P3_9LACO",2.6706
+"775","V22","Lactobacillus","Probable manganese-dependent inorganic pyrophosphatase","A0A135Z6P3_9LACO",1.7245
+"776","V30","Lactobacillus","Probable manganese-dependent inorganic pyrophosphatase","A0A135Z6P3_9LACO",1.7263
+"777","V31","Lactobacillus","Probable manganese-dependent inorganic pyrophosphatase","A0A135Z6P3_9LACO",0.43582
+"778","V16","Lactobacillus","Dipeptidase","A0A135Z6Y8_9LACO",2.6706
+"779","V22","Lactobacillus","Dipeptidase","A0A135Z6Y8_9LACO",1.2934
+"780","V32","Lactobacillus","Dipeptidase","A0A135Z6Y8_9LACO",3.3412
+"781","V06","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",1.7892
+"782","V10","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",0.93084
+"783","V14","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",47.435
+"784","V15L","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",3.3099
+"785","V16","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",3.5608
+"786","V1O","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",4.7939
+"787","V21","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",2.4097
+"788","V22","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",3.8802
+"789","V27","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",1.8705
+"790","V30","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",0.57542
+"791","V31","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",2.1791
+"792","V32","Lactobacillus","ABC transporter solute-binding protein","A0A135Z922_9LACO",3.3412
+"793","V03","Gardnerella","60 kDa chaperonin","A0A135ZAR5_GARVA",9.8931
+"794","V6O","Gardnerella","60 kDa chaperonin","A0A135ZAR5_GARVA",2.1485
+"795","V15L","Lactobacillus","Chaperone protein DnaK","A0A135ZEL5_9LACO",6.6199
+"796","V16","Lactobacillus","Chaperone protein DnaK","A0A135ZEL5_9LACO",4.451
+"797","V1O","Lactobacillus","Chaperone protein DnaK","A0A135ZEL5_9LACO",2.397
+"798","V22","Lactobacillus","Chaperone protein DnaK","A0A135ZEL5_9LACO",3.0179
+"799","V31","Lactobacillus","Chaperone protein DnaK","A0A135ZEL5_9LACO",1.3075
+"800","V10","Lactobacillus","Uncharacterized protein","A0A135ZFL3_9LACO",1.3963
+"801","V02","Lactobacillus","Elongation factor Tu","A0A135ZFV0_9LACO",1.2631
+"802","V06","Lactobacillus","Elongation factor Tu","A0A135ZFV0_9LACO",3.5785
+"803","V10","Lactobacillus","Elongation factor Tu","A0A135ZFV0_9LACO",6.0505
+"804","V21","Lactobacillus","Elongation factor Tu","A0A135ZFV0_9LACO",4.8193
+"805","V25","Lactobacillus","Elongation factor Tu","A0A135ZFV0_9LACO",3.5007
+"806","V27","Lactobacillus","Elongation factor Tu","A0A135ZFV0_9LACO",0.93525
+"807","V30","Lactobacillus","Elongation factor Tu","A0A135ZFV0_9LACO",8.6313
+"808","V32","Lactobacillus","Elongation factor Tu","A0A135ZFV0_9LACO",6.6824
+"809","V10","Lactobacillus","Putative multicopper oxidase mco","A0A135ZG11_9LACO",0.46542
+"810","V25","Lactobacillus","Putative multicopper oxidase mco","A0A135ZG11_9LACO",1.7504
+"811","V10","Lactobacillus","ATP-dependent 6-phosphofructokinase","A0A137PS56_LACHE",1.8617
+"812","V21","Lactobacillus","ATP-dependent 6-phosphofructokinase","A0A137PS56_LACHE",0.60241
+"813","V30","Lactobacillus","ATP-dependent 6-phosphofructokinase","A0A137PS56_LACHE",2.8771
+"814","V30","Lactobacillus","Maltose epimerase","A0A137PUA5_LACHE",1.7263
+"815","R3","Roseburia","Flagellin","A0A173SD30_9FIRM",10.915
+"816","R8","Roseburia","Flagellin","A0A173SD30_9FIRM",45.522
+"817","V23","Dorea","D-galactose/ D-glucose-binding protein","A0A174DK96_9FIRM",1.5384
+"818","R8","Catenibacterium","Chaperone protein DnaK","A0A174H6W8_9FIRM",19.509
+"819","R3","Eubacterium","Flagellin","A0A174ZNL7_9FIRM",5.4573
+"820","NV1","Eikenella","60 kDa chaperonin","A0A1A9RIR6_EIKCO",2.6547
+"821","V05","Lactobacillus","60 kDa chaperonin","A0A1B2IR20_LACHE",0.81441
+"822","V10","Lactobacillus","60 kDa chaperonin","A0A1B2IR20_LACHE",0.93084
+"823","V21","Lactobacillus","60 kDa chaperonin","A0A1B2IR20_LACHE",0.60241
+"824","V30","Lactobacillus","60 kDa chaperonin","A0A1B2IR20_LACHE",7.4805
+"825","V16","Lactobacillus","Peroxiredoxin","A0A1C2D3E8_9LACO",1.7804
+"826","V22","Lactobacillus","Peroxiredoxin","A0A1C2D3E8_9LACO",0.86226
+"827","V31","Lactobacillus","Peroxiredoxin","A0A1C2D3E8_9LACO",0.43582
+"828","V05","Lactobacillus","L-lactate dehydrogenase","A0A1C2D5W2_9LACO",0.81441
+"829","V10","Lactobacillus","L-lactate dehydrogenase","A0A1C2D5W2_9LACO",2.3271
+"830","V21","Lactobacillus","L-lactate dehydrogenase","A0A1C2D5W2_9LACO",1.8072
+"831","V25","Lactobacillus","L-lactate dehydrogenase","A0A1C2D5W2_9LACO",3.5007
+"832","V30","Lactobacillus","L-lactate dehydrogenase","A0A1C2D5W2_9LACO",3.4525
+"833","NV7","Anaerosphaera","Ornithine carbamoyltransferase","A0A1E9AET1_9FIRM",4.9741
+"834","V20","Streptococcus","YSIRK signal domain/LPXTG anchor domain surface protein","A0A1F0RC36_9STRE",0.93095
+"835","NV1","Porphyromonas","Reactive intermediate/imine deaminase","A0A1F1DRZ7_9PORP",1.7698
+"836","NV1","Porphyromonas","Serine hydroxymethyltransferase","A0A1F1DTI9_9PORP",2.6547
+"837","NV1","Porphyromonas","Glycine dehydrogenase (aminomethyl-transferring)","A0A1F1DUG5_9PORP",6.1943
+"838","NV1","Porphyromonas","Elongation factor Tu","A0A1F1DVZ8_9PORP",7.9641
+"839","R3","Porphyromonas","Elongation factor Tu","A0A1F1DVZ8_9PORP",3.6382
+"840","R4","Porphyromonas","Elongation factor Tu","A0A1F1DVZ8_9PORP",1.7336
+"841","NV1","Porphyromonas","50S ribosomal protein L7/L12","A0A1F1DX84_9PORP",1.7698
+"842","NV1","Porphyromonas","Glyceraldehyde-3-phosphate dehydrogenase","A0A1F1DZ18_9PORP",3.5396
+"843","NV1","Porphyromonas","Malate dehydrogenase","A0A1F1E0U7_9PORP",5.3094
+"844","NV1","Porphyromonas","Alpha-glucosidase","A0A1F1E125_9PORP",2.6547
+"845","NV1","Porphyromonas","Bifunctional protein FolD","A0A1F1E1J5_9PORP",1.7698
+"846","NV1","Porphyromonas","Flavodoxin","A0A1F1E3G6_9PORP",2.6547
+"847","NV2","Porphyromonas","Flavodoxin","A0A1F1E3G6_9PORP",16.849
+"848","NV1","Porphyromonas","Formate--tetrahydrofolate ligase","A0A1F1E608_9PORP",6.1943
+"849","NV1","Porphyromonas","Isopropanol dehydrogenase","A0A1F1E6J4_9PORP",2.6547
+"850","NV1","Porphyromonas","Aminomethyltransferase","A0A1F1E7F8_9PORP",1.7698
+"851","NV1","Porphyromonas","Ribosome-recycling factor","A0A1F1E7H1_9PORP",2.6547
+"852","NV1","Porphyromonas","Uncharacterized protein","A0A1F1E7H5_9PORP",2.6547
+"853","NV1","Porphyromonas","Fructose-bisphosphate aldolase class 1","A0A1F1E7T8_9PORP",1.7698
+"854","NV1","Porphyromonas","NADP oxidoreductase","A0A1F1E9F7_9PORP",7.0792
+"855","NV1","Porphyromonas","Phosphoserine aminotransferase","A0A1F1E9H6_9PORP",4.4245
+"856","NV1","Porphyromonas","Elongation factor Ts","A0A1F1EA26_9PORP",2.6547
+"857","NV1","Porphyromonas","Tricorn protease homolog","A0A1F1EA63_9PORP",1.7698
+"858","NV1","Porphyromonas","60 kDa chaperonin","A0A1F1EA67_9PORP",6.1943
+"859","NV1","Porphyromonas","3-phosphoglycerate dehydrogenase","A0A1F1EAU8_9PORP",2.6547
+"860","NV1","Porphyromonas","Phosphoenolpyruvate carboxykinase (ATP)","A0A1F1EAY1_9PORP",8.849
+"861","NV1","Porphyromonas","Peptidase S9","A0A1F1EB21_9PORP",1.7698
+"862","NV1","Porphyromonas","Urocanate hydratase","A0A1F1EFC2_9PORP",2.6547
+"863","NV1","Porphyromonas","Uncharacterized protein","A0A1F1EFI2_9PORP",3.5396
+"864","NV1","Porphyromonas","Uncharacterized protein","A0A1F1EFK8_9PORP",1.7698
+"865","NV1","Porphyromonas","Glutamate formiminotransferase","A0A1F1EFN3_9PORP",2.6547
+"866","R8","Prevotella","Phosphoribosylaminoimidazole-succinocarboxamide synthase","A0A1G8C2U9_9BACT",19.509
+"867","V16","Bacillus","Phospholipase/carboxylesterase","A0A1I2A7X4_9BACI",0.89019
+"868","V22","Bacillus","Phospholipase/carboxylesterase","A0A1I2A7X4_9BACI",0.43113
+"869","V9L","Bacillus","Phospholipase/carboxylesterase","A0A1I2A7X4_9BACI",2.5211
+"870","R4","Pseudobutyrivibrio","Uncharacterized protein","A0A1I3B316_9FIRM",1.7336
+"871","V11","Pseudobutyrivibrio","Uncharacterized protein","A0A1I3B316_9FIRM",0.81588
+"872","V15","Pseudobutyrivibrio","Uncharacterized protein","A0A1I3B316_9FIRM",0.75332
+"873","V16","Pseudobutyrivibrio","Uncharacterized protein","A0A1I3B316_9FIRM",1.7804
+"874","V21","Pseudobutyrivibrio","Uncharacterized protein","A0A1I3B316_9FIRM",0.60241
+"875","V22","Pseudobutyrivibrio","Uncharacterized protein","A0A1I3B316_9FIRM",0.43113
+"876","V28","Lactobacillus","Lactate dehydrogenase","A0A1L6WZ30_9LACO",1.4999
+"877","V28","Lactobacillus","Uncharacterized protein","A0A1L6WZY9_9LACO",1.9998
+"878","V9L","Lactobacillus","Phosphoglycerate kinase","A0A1L6X0H7_9LACO",7.5633
+"879","V16","Lactobacillus","Type I glyceraldehyde-3-phosphate dehydrogenase","A0A1L6X0J0_9LACO",0.89019
+"880","V28","Lactobacillus","Type I glyceraldehyde-3-phosphate dehydrogenase","A0A1L6X0J0_9LACO",3.9997
+"881","V9L","Lactobacillus","Type I glyceraldehyde-3-phosphate dehydrogenase","A0A1L6X0J0_9LACO",2.5211
+"882","V28","Lactobacillus","Pyridoxamine 5'-phosphate oxidase","A0A1L6X1G7_9LACO",0.99991
+"883","V1O","Lactobacillus","Pyruvate kinase","A0A1L6X1M5_9LACO",1.1985
+"884","V22","Lactobacillus","Pyruvate kinase","A0A1L6X1M5_9LACO",0.43113
+"885","V28","Lactobacillus","Pyruvate kinase","A0A1L6X1M5_9LACO",1.4999
+"886","V9L","Lactobacillus","Pyruvate kinase","A0A1L6X1M5_9LACO",7.5633
+"887","V22","Lactobacillus","Fructose-bisphosphate aldolase","A0A1L6X274_9LACO",0.86226
+"888","V28","Lactobacillus","Fructose-bisphosphate aldolase","A0A1L6X274_9LACO",2.4998
+"889","V31","Lactobacillus","Fructose-bisphosphate aldolase","A0A1L6X274_9LACO",1.7433
+"890","V28","Lactobacillus","Uncharacterized protein","A0A1L6X370_9LACO",0.99991
+"891","R1","Desulfotomaculum","Two-component system NtrC family sensor histidine kinase AtoS","A0A1M6APA9_9FIRM",0.83635
+"892","V06","Desulfotomaculum","Two-component system NtrC family sensor histidine kinase AtoS","A0A1M6APA9_9FIRM",0.89462
+"893","V32","Desulfotomaculum","Two-component system NtrC family sensor histidine kinase AtoS","A0A1M6APA9_9FIRM",1.6706
+"894","R3","Megasphaera","Pyruvate-flavodoxin oxidoreductase","A0A1M6TCL1_MEGEL",3.6382
+"895","V03","Gardnerella","Alpha-14 glucan phosphorylase","A0A1P8J3K4_GARVA",2.8266
+"896","V03","Gardnerella","Adenylate kinase","A0A1P8J3N0_GARVA",2.8266
+"897","V23","Gardnerella","Adenylate kinase","A0A1P8J3N0_GARVA",0.7692
+"898","V6O","Gardnerella","Glucose-6-phosphate isomerase","A0A1P8J3S8_GARVA",2.1485
+"899","V01","Gardnerella","CHAP domain-containing protein","A0A1P8J3Y0_GARVA",1.6179
+"900","V01","Gardnerella","Uncharacterized protein","A0A1P8J3Y2_GARVA",1.6179
+"901","V02","Gardnerella","Type I glyceraldehyde-3-phosphate dehydrogenase","A0A1P8J483_GARVA",1.2631
+"902","V03","Gardnerella","Type I glyceraldehyde-3-phosphate dehydrogenase","A0A1P8J483_GARVA",1.4133
+"903","V04","Gardnerella","Type I glyceraldehyde-3-phosphate dehydrogenase","A0A1P8J483_GARVA",1.3578
+"904","V6O","Gardnerella","Type I glyceraldehyde-3-phosphate dehydrogenase","A0A1P8J483_GARVA",2.1485
+"905","V01","Gardnerella","30S ribosomal protein S1","A0A1P8J4H6_GARVA",0.80897
+"906","NV1","Gardnerella","60 kDa chaperonin","A0A1P8J4Z5_GARVA",0.8849
+"907","V01","Gardnerella","60 kDa chaperonin","A0A1P8J4Z5_GARVA",0.80897
+"908","V6O","Gardnerella","Elongation factor Ts","A0A1P8J5C3_GARVA",2.1485
+"909","V01","Gardnerella","Peptidase","A0A1P8J5E1_GARVA",14.561
+"910","V03","Gardnerella","Peptidase","A0A1P8J5E1_GARVA",18.373
+"911","V23","Gardnerella","Peptidase","A0A1P8J5E1_GARVA",0.7692
+"912","V01","Gardnerella","Zinc ABC transporter substrate-binding protein","A0A1P8J5Q7_GARVA",1.6179
+"913","V01","Gardnerella","Elongation factor G","A0A1P8J5U7_GARVA",1.6179
+"914","V16","Gardnerella","DNA-directed RNA polymerase subunit beta'","A0A1P8J609_GARVA",0.89019
+"915","V01","Gardnerella","Peptidase","A0A1P8J631_GARVA",2.4269
+"916","V6O","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J675_GARVA",2.1485
+"917","V01","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6A7_GARVA",1.6179
+"918","V03","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6A7_GARVA",1.4133
+"919","V07","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6A7_GARVA",5.918
+"920","V23","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6A7_GARVA",1.5384
+"921","V6O","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6A7_GARVA",2.1485
+"922","V01","Gardnerella","Alpha-amylase","A0A1P8J6C3_GARVA",4.0448
+"923","V01","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6S1_GARVA",4.8538
+"924","V03","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6S1_GARVA",9.8931
+"925","V04","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6S1_GARVA",1.3578
+"926","V07","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6S1_GARVA",5.918
+"927","V6L","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6S1_GARVA",2.071
+"928","V6O","Gardnerella","ABC transporter substrate-binding protein","A0A1P8J6S1_GARVA",17.188
+"929","V1L","Acinetobacter","Capsular polysaccharide biosynthesis protein (Fragment)","A0A1Q3M5F4_9GAMM",37.247
+"930","R3","Eubacterium","Flagellin","A0A1Q6PIV2_9FIRM",9.0954
+"931","R8","Firmicutes","ABC transporter substrate-binding protein","A0A1Q6QL26_9FIRM",19.509
+"932","V10","Lactobacillus","Dipeptidase","A0A1Y4PYS5_9LACO",0.46542
+"933","V25","Lactobacillus","Dipeptidase","A0A1Y4PYS5_9LACO",1.7504
+"934","V30","Lactobacillus","Dipeptidase","A0A1Y4PYS5_9LACO",1.1508
+"935","V17","Lactobacillus","Uncharacterized protein","A0A226SK60_9LACO",1.6834
+"936","V30","Lactobacillus","Ribosome hibernation promoting factor","A0A226UZL1_9LACO",1.1508
+"937","R1","Prevotella","Elongation factor Tu","A0A229I6H7_9BACT",5.8544
+"938","R8","Prevotella","Elongation factor Tu","A0A229I6H7_9BACT",19.509
+"939","R8","Prevotella","Uncharacterized protein","A0A229I7B2_9BACT",32.516
+"940","R3","Prevotella","Pyruvate-flavodoxin oxidoreductase","A0A229I9R6_9BACT",3.6382
+"941","R8","Prevotella","Pyruvate-flavodoxin oxidoreductase","A0A229I9R6_9BACT",26.013
+"942","V23","Mobiluncus","FHA domain-containing protein","A0A254PCF7_9ACTO",1.5384
+"943","R1","Prevotella","Fructose-16-bisphosphate aldolase class II","A0A255U353_9BACT",0.83635
+"944","R8","Prevotella","Fructose-16-bisphosphate aldolase class II","A0A255U353_9BACT",19.509
+"945","V16","Staphylococcus","30S ribosomal protein S13","A0A291JIY7_9STAP",0.89019
+"946","V1O","Staphylococcus","30S ribosomal protein S13","A0A291JIY7_9STAP",1.1985
+"947","V22","Staphylococcus","30S ribosomal protein S13","A0A291JIY7_9STAP",1.2934
+"948","NV1","Fusobacterium","Glu/Leu/Phe/Val dehydrogenase","A0A2G9FKW0_FUSNU",3.5396
+"949","NV7","undistinguishable","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A2G9INM3_BIFAB",1.658
+"950","V10","undistinguishable","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A2G9INM3_BIFAB",2.3271
+"951","V12","undistinguishable","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A2G9INM3_BIFAB",1.6714
+"952","V21","undistinguishable","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A2G9INM3_BIFAB",0.60241
+"953","V30","undistinguishable","23-bisphosphoglycerate-dependent phosphoglycerate mutase","A0A2G9INM3_BIFAB",11.508
+"954","V30","Lactobacillus","Oxalyl-CoA decarboxylase","A4PE17_LACAI",1.7263
+"955","V30","Lactobacillus","4-methyl-5(B-hydroxyethyl)-thiazole monophosphate biosynthesis protein","A8YTB6_LACH4",1.1508
+"956","V15","Lactobacillus","Phosphate ABC superfamily ATP binding cassette transporter binding protein","C2E5K8_LACJH",0.75332
+"957","V16","Lactobacillus","Phosphate ABC superfamily ATP binding cassette transporter binding protein","C2E5K8_LACJH",1.7804
+"958","V22","Lactobacillus","Phosphate ABC superfamily ATP binding cassette transporter binding protein","C2E5K8_LACJH",1.7245
+"959","NV1","Porphyromonas","Glutamate dehydrogenase","C2ME01_9PORP",3.5396
+"960","NV7","Porphyromonas","Glutamate dehydrogenase","C2ME01_9PORP",4.9741
+"961","V10","Lactobacillus","Uncharacterized protein","C7XJ17_9LACO",4.1888
+"962","V15","Lactobacillus","Bacterial surface layer protein (Fragment)","C7XKU0_9LACO",3.0133
+"963","V25","Lactobacillus","Bacterial surface layer protein (Fragment)","C7XKU0_9LACO",7.0014
+"964","V25","Lactobacillus","LPXTG-motif cell wall anchor domain protein (Fragment)","C7XL19_9LACO",3.5007
+"965","V13","Lactobacillus","L-lactate dehydrogenase","C8PBN4_9LACO",2.0775
+"966","V6O","Lactobacillus","L-lactate dehydrogenase","C8PBN4_9LACO",2.1485
+"967","NV1","Jonquetella","Uncharacterized protein","C9M5H3_9BACT",1.7698
+"968","NV1","Jonquetella","Uncharacterized protein","C9M5L3_9BACT",3.5396
+"969","NV7","Jonquetella","Phosphate binding protein","C9M636_9BACT",3.3161
+"970","NV1","Jonquetella","Dipeptidase","C9M6A9_9BACT",1.7698
+"971","NV1","Jonquetella","Uncharacterized protein","C9M6B0_9BACT",1.7698
+"972","NV1","Jonquetella","Uncharacterized protein","C9M7Y2_9BACT",3.5396
+"973","NV1","Jonquetella","Selenoprotein B glycine/betaine/sarcosine/D-proline reductase family","C9M805_9BACT",1.7698
+"974","NV2","Jonquetella","Selenoprotein B glycine/betaine/sarcosine/D-proline reductase family","C9M805_9BACT",16.849
+"975","NV1","Jonquetella","Uncharacterized protein","C9M847_9BACT",2.6547
+"976","NV1","Jonquetella","Uncharacterized protein","C9M8G9_9BACT",1.7698
+"977","NV1","Jonquetella","ABC transporter substrate-binding protein family 5","C9M8Q4_9BACT",1.7698
+"978","V30","Lactobacillus","60 kDa chaperonin","CH60_LACAC",5.7542
+"979","V10","Lactobacillus","67-dimethyl-8-ribityllumazine synthase","D0DF12_9LACO",1.3963
+"980","V11","Lactobacillus","Uncharacterized protein","D0DH62_9LACO",0.81588
+"981","V06","Lactobacillus","Pullulanase type I","D0DHA7_9LACO",12.525
+"982","V11","Lactobacillus","Pullulanase type I","D0DHA7_9LACO",4.0794
+"983","V16","Lactobacillus","Pullulanase type I","D0DHA7_9LACO",0.89019
+"984","V1O","Lactobacillus","Pullulanase type I","D0DHA7_9LACO",9.5878
+"985","V22","Lactobacillus","Pullulanase type I","D0DHA7_9LACO",6.8981
+"986","V31","Lactobacillus","Pullulanase type I","D0DHA7_9LACO",7.409
+"987","V32","Lactobacillus","Pullulanase type I","D0DHA7_9LACO",3.3412
+"988","V22","Lactobacillus","Uncharacterized protein","D0DI57_9LACO",1.2934
+"989","V16","Lactobacillus","NADH peroxidase","D0DI77_9LACO",0.89019
+"990","V22","Lactobacillus","NADH peroxidase","D0DI77_9LACO",2.1557
+"991","V31","Lactobacillus","NADH peroxidase","D0DI77_9LACO",2.1791
+"992","V22","Lactobacillus","D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase","D0DIF1_9LACO",0.86226
+"993","V06","Lactobacillus","Uncharacterized protein","D0DIV9_9LACO",9.8408
+"994","V32","Lactobacillus","Uncharacterized protein","D0DIV9_9LACO",7.7961
+"995","V06","Lactobacillus","Uncharacterized protein","D0DKH6_9LACO",5.3677
+"996","V10","Lactobacillus","Uncharacterized protein","D0DKH6_9LACO",0.93084
+"997","V11","Lactobacillus","Uncharacterized protein","D0DKH6_9LACO",2.4476
+"998","V21","Lactobacillus","Uncharacterized protein","D0DKH6_9LACO",1.8072
+"999","V22","Lactobacillus","Uncharacterized protein","D0DKH6_9LACO",1.7245
+"1000","V25","Lactobacillus","Uncharacterized protein","D0DKH6_9LACO",1.7504
+"1001","V31","Lactobacillus","Uncharacterized protein","D0DKH6_9LACO",1.3075
+"1002","V32","Lactobacillus","Uncharacterized protein","D0DKH6_9LACO",2.7843
+"1003","V11","Lactobacillus","Gram-positive signal peptide protein YSIRK family","D0DKW0_9LACO",0.81588
+"1004","V16","Lactobacillus","Gram-positive signal peptide protein YSIRK family","D0DKW0_9LACO",0.89019
+"1005","V31","Lactobacillus","Gram-positive signal peptide protein YSIRK family","D0DKW0_9LACO",3.0508
+"1006","V28","Lactobacillus","LPXTG-motif cell wall anchor domain protein","D0DMC3_9LACO",7.9993
+"1007","V28","Lactobacillus","NlpC/P60 family protein","D0DPI6_9LACO",2.4998
+"1008","V10","Lactobacillus","LPXTG-motif cell wall anchor domain protein","D0DQQ4_9LACO",1.8617
+"1009","V25","Lactobacillus","LPXTG-motif cell wall anchor domain protein","D0DQQ4_9LACO",5.2511
+"1010","R8","Prevotella","Rubredoxin","D1PA87_9BACT",32.516
+"1011","R8","undistinguishable","Glutamate dehydrogenase","D1PC66_9BACT",13.006
+"1012","R8","Prevotella","AICARFT/IMPCHase bienzyme","D1PFU4_9BACT",19.509
+"1013","R3","Prevotella","Tetratricopeptide repeat protein","D1PGV3_9BACT",3.6382
+"1014","R8","Prevotella","Tetratricopeptide repeat protein","D1PGV3_9BACT",19.509
+"1015","V6O","Gardnerella","50S ribosomal protein L25","D2RB91_GARV4",2.1485
+"1016","V01","Gardnerella","Formate C-acetyltransferase","D2RBB7_GARV4",4.0448
+"1017","V04","Gardnerella","Transketolase","D2RBD1_GARV4",1.3578
+"1018","V6O","Gardnerella","Transketolase","D2RBD1_GARV4",4.2969
+"1019","V01","Gardnerella","LPXTG-motif cell wall anchor domain protein","D2RC27_GARV4",1.6179
+"1020","V03","Gardnerella","ABC transporter substrate-binding protein family 5","D2RCA6_GARV4",1.4133
+"1021","V01","Gardnerella","Alpha-14 glucan phosphorylase","D2RCL7_GARV4",6.4717
+"1022","V20","Prevotella","Phosphoenolpyruvate carboxykinase (ATP)","D3I359_9BACT",1.3964
+"1023","V20","Prevotella","Uncharacterized protein","D3I5N4_9BACT",0.93095
+"1024","V20","Prevotella","Uncharacterized protein","D3I6N4_9BACT",0.93095
+"1025","V20","Prevotella","Uncharacterized protein","D3I8M2_9BACT",2.7929
+"1026","R8","Butyrivibrio","Flagellin (Fragment)","D4S379_9FIRM",32.516
+"1027","V6O","Gardnerella","Uncharacterized protein","D6SWR8_GARVA",2.1485
+"1028","V01","Gardnerella","ABC-type dipeptide transporter periplasmic component","D6SYY1_GARVA",1.6179
+"1029","V03","Gardnerella","Uncharacterized protein","D6T0A4_GARVA",50.879
+"1030","V01","Gardnerella","14-alpha-glucan branching enzyme","D6T2C6_GARVA",12.135
+"1031","V6O","Gardnerella","14-alpha-glucan branching enzyme","D6T2C6_GARVA",4.2969
+"1032","NV1","Peptoniphilus","Uncharacterized protein","D8FI62_9FIRM",1.7698
+"1033","NV1","Peptoniphilus","Glutamate dehydrogenase","D8FIV3_9FIRM",7.0792
+"1034","NV7","Peptoniphilus","Glutamate dehydrogenase","D8FIV3_9FIRM",3.3161
+"1035","V23","Peptoniphilus","Glutamate dehydrogenase","D8FIV3_9FIRM",1.5384
+"1036","V10","Lactobacillus","Chaperone protein DnaK","DNAK_LACAC",1.8617
+"1037","V21","Lactobacillus","Chaperone protein DnaK","DNAK_LACAC",0.60241
+"1038","V30","Lactobacillus","Chaperone protein DnaK","DNAK_LACAC",4.6034
+"1039","NV7","Peptoniphilus","Flavodoxin","E0NLE1_9FIRM",3.3161
+"1040","V23","Prevotella","Flavodoxin","E0NPW0_9BACT",1.5384
+"1041","V23","Mobiluncus","Uncharacterized protein","E0QRS9_9ACTO",1.5384
+"1042","V01","Prevotella","Uncharacterized protein","E1KRB9_9BACT",2.4269
+"1043","V23","Mobiluncus","Cell wall protein V (Fragment)","E1MF27_9ACTO",4.6152
+"1044","V23","Mobiluncus","Flagellin","E1MFS4_9ACTO",6.1536
+"1045","V23","Mobiluncus","Gram-positive signal peptide protein YSIRK family","E1MH30_9ACTO",2.3076
+"1046","V13","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E1NMU4_9LACO",3.1162
+"1047","V05","Lactobacillus","GA module","E1NUT2_9LACO",8.9586
+"1048","V05","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E1NUT4_9LACO",8.9586
+"1049","V6O","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E1NUT4_9LACO",10.742
+"1050","V01","Lactobacillus","Putative immunoglobulin G-binding protein G","E3BRG6_9LACO",1.6179
+"1051","V05","Lactobacillus","Putative immunoglobulin G-binding protein G","E3BRG6_9LACO",16.288
+"1052","V23","Lactobacillus","Putative immunoglobulin G-binding protein G","E3BRG6_9LACO",1.5384
+"1053","V16","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E3BRG7_9LACO",1.7804
+"1054","V05","Lactobacillus","Gram-positive signal peptide protein YSIRK family (Fragment)","E3BT78_9LACO",6.5153
+"1055","V13","Lactobacillus","Gram-positive signal peptide protein YSIRK family (Fragment)","E3BT78_9LACO",11.426
+"1056","V06","Lactobacillus","Uncharacterized protein","E3R2H8_9LACO",3.5785
+"1057","V16","Lactobacillus","Uncharacterized protein","E3R2H8_9LACO",0.89019
+"1058","V22","Lactobacillus","Uncharacterized protein","E3R2H8_9LACO",2.1557
+"1059","V31","Lactobacillus","Uncharacterized protein","E3R2H8_9LACO",3.0508
+"1060","V32","Lactobacillus","Uncharacterized protein","E3R2H8_9LACO",2.7843
+"1061","V02","Lactobacillus","Enolase","E3R2K7_9LACO",2.5263
+"1062","V06","Lactobacillus","Enolase","E3R2K7_9LACO",5.3677
+"1063","V11","Lactobacillus","Enolase","E3R2K7_9LACO",3.2635
+"1064","V15","Lactobacillus","Enolase","E3R2K7_9LACO",1.5066
+"1065","V15L","Lactobacillus","Enolase","E3R2K7_9LACO",13.24
+"1066","V16","Lactobacillus","Enolase","E3R2K7_9LACO",7.1215
+"1067","V1O","Lactobacillus","Enolase","E3R2K7_9LACO",5.9924
+"1068","V22","Lactobacillus","Enolase","E3R2K7_9LACO",5.1736
+"1069","V27","Lactobacillus","Enolase","E3R2K7_9LACO",3.741
+"1070","V31","Lactobacillus","Enolase","E3R2K7_9LACO",4.3582
+"1071","V32","Lactobacillus","Enolase","E3R2K7_9LACO",12.808
+"1072","V06","Lactobacillus","Ferritin-like protein","E3R2L3_9LACO",0.89462
+"1073","V32","Lactobacillus","Ferritin-like protein","E3R2L3_9LACO",3.3412
+"1074","V06","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E3R2M0_9LACO",8.0515
+"1075","V11","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E3R2M0_9LACO",8.9747
+"1076","V15L","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E3R2M0_9LACO",9.9298
+"1077","V1O","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E3R2M0_9LACO",3.5954
+"1078","V21","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E3R2M0_9LACO",2.4097
+"1079","V31","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E3R2M0_9LACO",6.1015
+"1080","V32","Lactobacillus","Gram-positive signal peptide protein YSIRK family","E3R2M0_9LACO",6.1255
+"1081","V21","Lactobacillus","Uncharacterized protein","E3R4X6_9LACO",2.4097
+"1082","V15L","Lactobacillus","Phosphate import ATP-binding protein PstB","E3R5C7_9LACO",3.3099
+"1083","V1O","Lactobacillus","Phosphate import ATP-binding protein PstB","E3R5C7_9LACO",2.397
+"1084","V05","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",0.81441
+"1085","V06","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",11.63
+"1086","V11","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",3.2635
+"1087","V13","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",3.1162
+"1088","V15L","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",3.3099
+"1089","V16","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",2.6706
+"1090","V1O","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",8.3894
+"1091","V21","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",5.4217
+"1092","V27","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",0.93525
+"1093","V31","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",7.409
+"1094","V32","Lactobacillus","Putative fructose-16-bisphosphate aldolase class II","E3R5E0_9LACO",17.263
+"1095","V06","Lactobacillus","LPXTG-motif cell wall anchor domain protein","E3R5T8_9LACO",2.6838
+"1096","V10","Lactobacillus","LPXTG-motif cell wall anchor domain protein","E3R5T8_9LACO",3.2579
+"1097","V11","Lactobacillus","LPXTG-motif cell wall anchor domain protein","E3R5T8_9LACO",2.4476
+"1098","V15","Lactobacillus","LPXTG-motif cell wall anchor domain protein","E3R5T8_9LACO",1.5066
+"1099","V15L","Lactobacillus","LPXTG-motif cell wall anchor domain protein","E3R5T8_9LACO",6.6199
+"1100","V16","Lactobacillus","LPXTG-motif cell wall anchor domain protein","E3R5T8_9LACO",3.5608
+"1101","V22","Lactobacillus","LPXTG-motif cell wall anchor domain protein","E3R5T8_9LACO",0.86226
+"1102","V31","Lactobacillus","LPXTG-motif cell wall anchor domain protein","E3R5T8_9LACO",5.6657
+"1103","V32","Lactobacillus","LPXTG-motif cell wall anchor domain protein","E3R5T8_9LACO",1.6706
+"1104","V32","Lactobacillus","Beta-phosphoglucomutase","E3R6B5_9LACO",1.6706
+"1105","V16","Lactobacillus","Glycosyl hydrolase family 65 central catalytic domain protein","E3R6B6_9LACO",0.89019
+"1106","V21","Lactobacillus","Glycosyl hydrolase family 65 central catalytic domain protein","E3R6B6_9LACO",1.8072
+"1107","V22","Lactobacillus","Glycosyl hydrolase family 65 central catalytic domain protein","E3R6B6_9LACO",3.0179
+"1108","V31","Lactobacillus","Glycosyl hydrolase family 65 central catalytic domain protein","E3R6B6_9LACO",0.43582
+"1109","V06","Lactobacillus","Threonine--tRNA ligase","E3R6R1_9LACO",0.89462
+"1110","V16","Lactobacillus","Threonine--tRNA ligase","E3R6R1_9LACO",1.7804
+"1111","V22","Lactobacillus","Threonine--tRNA ligase","E3R6R1_9LACO",2.1557
+"1112","V31","Lactobacillus","Threonine--tRNA ligase","E3R6R1_9LACO",1.3075
+"1113","V32","Lactobacillus","Threonine--tRNA ligase","E3R6R1_9LACO",3.3412
+"1114","V30","Lactobacillus","Maltose phosphorylase","E4SND6_LACAR",4.0279
+"1115","NV2","Mobiluncus","LPXTG-motif cell wall anchor domain protein","E6LX12_9ACTO",33.698
+"1116","NV1","Pseudoramibacter","Acetyl-CoA C-acetyltransferase","E6MHW2_9FIRM",2.6547
+"1117","R8","Prevotella","Phosphoenolpyruvate carboxykinase (ATP)","E6MQK4_9BACT",13.006
+"1118","R3","Lactobacillus","Flagellin","E7FSY9_9LACO",5.4573
+"1119","NV7","Lactobacillus","Enolase","ENO_LACAC",1.658
+"1120","V02","Lactobacillus","Enolase","ENO_LACAC",5.0526
+"1121","V10","Lactobacillus","Enolase","ENO_LACAC",5.1196
+"1122","V21","Lactobacillus","Enolase","ENO_LACAC",3.6145
+"1123","V30","Lactobacillus","Enolase","ENO_LACAC",23.017
+"1124","V30","Lactobacillus","Pyridoxine 5'-phosphate oxidase V related favin-nucleotide-binding protein","F0NSW7_LACHH",1.7263
+"1125","NV4","Porphyromonas","Peptidase M16 domain protein","F4KKW7_PORAD",12.495
+"1126","NV7","Porphyromonas","Peptidase M16 domain protein","F4KKW7_PORAD",3.3161
+"1127","NV4","Porphyromonas","Phosphoserine aminotransferase","F4KM77_PORAD",12.495
+"1128","NV7","Porphyromonas","Phosphoserine aminotransferase","F4KM77_PORAD",1.658
+"1129","R3","Prevotella","30S ribosomal protein S1","F8NAA4_9BACT",3.6382
+"1130","NV1","Prevotella","Glyceraldehyde-3-phosphate dehydrogenase","F9D663_PREDD",0.8849
+"1131","NV2","Prevotella","Glyceraldehyde-3-phosphate dehydrogenase","F9D663_PREDD",16.849
+"1132","R3","Prevotella","Glyceraldehyde-3-phosphate dehydrogenase","F9D663_PREDD",3.6382
+"1133","V20","Prevotella","Uncharacterized protein","G1VB29_9BACT",1.3964
+"1134","V05","Lactobacillus","Uncharacterized protein (Fragment)","G3YXI4_9LACO",9.773
+"1135","V13","Lactobacillus","Uncharacterized protein (Fragment)","G3YXI4_9LACO",6.2324
+"1136","V05","Lactobacillus","Uncharacterized protein (Fragment)","G3YXT0_9LACO",5.7009
+"1137","V13","Lactobacillus","Uncharacterized protein (Fragment)","G3YXT0_9LACO",11.426
+"1138","V05","Lactobacillus","Uncharacterized protein","G3YXT7_9LACO",8.9586
+"1139","V13","Lactobacillus","Uncharacterized protein","G3YXT7_9LACO",11.426
+"1140","V16","Lactobacillus","Uncharacterized protein","G3YXT7_9LACO",1.7804
+"1141","V32","Lactobacillus","Uncharacterized protein","G3YXT7_9LACO",0.55686
+"1142","V05","Lactobacillus","Uncharacterized protein","G3YZD3_9LACO",0.81441
+"1143","V13","Lactobacillus","Uncharacterized protein","G3YZD3_9LACO",15.581
+"1144","V6O","Lactobacillus","Uncharacterized protein","G3YZD3_9LACO",2.1485
+"1145","V04","Lactobacillus","Glucose-6-phosphate isomerase","G6PI_LACAC",1.3578
+"1146","V10","Lactobacillus","Glucose-6-phosphate isomerase","G6PI_LACAC",1.8617
+"1147","V21","Lactobacillus","Glucose-6-phosphate isomerase","G6PI_LACAC",1.8072
+"1148","V30","Lactobacillus","Glucose-6-phosphate isomerase","G6PI_LACAC",7.4805
+"1149","NV1","Anaeroglobus","Glutamate dehydrogenase","G9YHB1_9FIRM",1.7698
+"1150","NV1","Anaeroglobus","Acetyl-CoA C-acetyltransferase","G9YI24_9FIRM",1.7698
+"1151","V30","Lactobacillus","Glutamyl-tRNA(Gln) amidotransferase subunit A","GATA_LACAC",2.8771
+"1152","V03","Gardnerella","Phosphoglycerate kinase","I4LKS3_GARVA",2.8266
+"1153","R8","Gardnerella","Transaldolase","I4LSF7_GARVA",6.5031
+"1154","V02","Gardnerella","Transaldolase","I4LSF7_GARVA",2.5263
+"1155","V03","Gardnerella","Transaldolase","I4LSF7_GARVA",5.6532
+"1156","V04","Gardnerella","Transaldolase","I4LSF7_GARVA",1.3578
+"1157","V6O","Gardnerella","Transaldolase","I4LSF7_GARVA",2.1485
+"1158","V04","Gardnerella","Uncharacterized protein","I4LTK4_GARVA",2.7157
+"1159","V03","Gardnerella","Alkyl hydroperoxide reductase C22 protein","I4M4S6_GARVA",4.2399
+"1160","V03","Gardnerella","Uncharacterized protein","I4M7C2_GARVA",8.4798
+"1161","V01","Gardnerella","Sugar-binding domain protein","I4MA29_GARVA",2.4269
+"1162","V10","Lactobacillus","Adenylate kinase","I7JY31_9LACO",0.46542
+"1163","V30","Lactobacillus","Adenylate kinase","I7JY31_9LACO",1.1508
+"1164","V10","Lactobacillus","DNA-directed RNA polymerase subunit alpha","I7JY33_9LACO",1.3963
+"1165","V25","Lactobacillus","DNA-directed RNA polymerase subunit alpha","I7JY33_9LACO",1.7504
+"1166","V30","Lactobacillus","DNA-directed RNA polymerase subunit alpha","I7JY33_9LACO",1.1508
+"1167","V30","Lactobacillus","Cell surface protein with LPXTG-motif","J3X9Z3_LACHE",4.0279
+"1168","V30","Lactobacillus","Cell separation protein","J3ZCG6_LACHE",3.4525
+"1169","V30","Lactobacillus","Aggregation promoting factor","J4BRT3_LACHE",1.7263
+"1170","V30","Lactobacillus","Surface layer protein","J4BT49_LACHE",5.7542
+"1171","V30","Lactobacillus","Cell surface protein","J4BU22_LACHE",2.8771
+"1172","V30","Lactobacillus","Surface layer protein","J7LHE7_LACHE",1.1508
+"1173","V30","undistinguishable","Cell surface protein","J7LMU4_LACHE",8.6313
+"1174","V21","Lactobacillus","60 kDa chaperonin","K0NTF3_9LACO",1.2048
+"1175","V30","Lactobacillus","60 kDa chaperonin","K0NTF3_9LACO",1.1508
+"1176","V06","Lactobacillus","Phosphate binding protein","K1N7M4_9LACO",0.89462
+"1177","V11","Lactobacillus","Phosphate binding protein","K1N7M4_9LACO",0.81588
+"1178","V1O","Lactobacillus","Phosphate binding protein","K1N7M4_9LACO",2.397
+"1179","V31","Lactobacillus","Phosphate binding protein","K1N7M4_9LACO",2.1791
+"1180","V32","Lactobacillus","Phosphate binding protein","K1N7M4_9LACO",2.2275
+"1181","V06","Lactobacillus","Uncharacterized protein","K1NK16_9LACO",12.525
+"1182","V11","Lactobacillus","Uncharacterized protein","K1NK16_9LACO",7.3429
+"1183","V15L","Lactobacillus","Uncharacterized protein","K1NK16_9LACO",9.9298
+"1184","V16","Lactobacillus","Uncharacterized protein","K1NK16_9LACO",0.89019
+"1185","V1O","Lactobacillus","Uncharacterized protein","K1NK16_9LACO",8.3894
+"1186","V22","Lactobacillus","Uncharacterized protein","K1NK16_9LACO",6.0358
+"1187","V23","Lactobacillus","Uncharacterized protein","K1NK16_9LACO",1.5384
+"1188","V31","Lactobacillus","Uncharacterized protein","K1NK16_9LACO",7.8448
+"1189","V32","Lactobacillus","Uncharacterized protein","K1NK16_9LACO",10.58
+"1190","V10","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",2.7925
+"1191","V11","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",4.8953
+"1192","V15","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",0.75332
+"1193","V15L","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",3.3099
+"1194","V16","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",0.89019
+"1195","V1L","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",18.623
+"1196","V1O","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",5.9924
+"1197","V21","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",3.6145
+"1198","V22","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",8.1915
+"1199","V23","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",1.5384
+"1200","V25","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",1.7504
+"1201","V30","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",0.57542
+"1202","V31","Lactobacillus","Uncharacterized protein","K1NM94_9LACO",1.7433
+"1203","V27","Lactobacillus","Uncharacterized protein","K1NMP9_9LACO",0.93525
+"1204","V32","Lactobacillus","Uncharacterized protein","K1NMP9_9LACO",3.3412
+"1205","V06","Lactobacillus","Uncharacterized protein","K1PNK6_9LACO",1.7892
+"1206","V32","Lactobacillus","Uncharacterized protein","K1PNK6_9LACO",3.898
+"1207","NV7","Lactobacillus","L-lactate dehydrogenase 1","LDH1_LACAC",1.658
+"1208","V30","Lactobacillus","L-lactate dehydrogenase 1","LDH1_LACAC",7.4805
+"1209","V30","Lactobacillus","L-lactate dehydrogenase 2","LDH2_LACAC",2.3017
+"1210","NV1","Actinomyces","Glycerol kinase","N6XBH1_9ACTO",1.7698
+"1211","V30","Lactobacillus","ATP-dependent 6-phosphofructokinase","PFKA_LACAC",4.0279
+"1212","V30","Lactobacillus","Phosphoglycerate kinase","PGK_LACAC",7.4805
+"1213","V10","Lactobacillus","Adenylosuccinate synthetase","PURA_LACAC",0.46542
+"1214","V30","Lactobacillus","Adenylosuccinate synthetase","PURA_LACAC",3.4525
+"1215","V01","Mycoplasma","Intrinsic membrane protein","Q49551_MYCHO",2.4269
+"1216","V30","Lactobacillus","Pyruvate oxidase","Q5FHQ7_LACAC",4.0279
+"1217","V30","Lactobacillus","Maltose phosphorylase","Q5FI04_LACAC",7.4805
+"1218","V30","Lactobacillus","Beta-phosphoglucomutase","Q5FI05_LACAC",1.7263
+"1219","V30","Lactobacillus","Aminopeptidase","Q5FI23_LACAC",4.0279
+"1220","V30","Lactobacillus","Oligopeptidase","Q5FIA0_LACAC",2.3017
+"1221","V30","Lactobacillus","Exodeoxyribonuclease","Q5FIG3_LACAC",4.0279
+"1222","V30","Lactobacillus","Dipeptidase","Q5FIL6_LACAC",1.7263
+"1223","V30","Lactobacillus","Fructose-bisphosphate aldolase","Q5FIR0_LACAC",11.508
+"1224","V10","Lactobacillus","Uncharacterized protein","Q5FJ08_LACAC",0.46542
+"1225","V30","Lactobacillus","Uncharacterized protein","Q5FJ08_LACAC",2.3017
+"1226","V30","Lactobacillus","Predicted oxidoreductase","Q5FJ72_LACAC",1.7263
+"1227","V30","Lactobacillus","Xaa-Pro dipeptidyl-peptidase","Q5FJC6_LACAC",1.7263
+"1228","V30","Lactobacillus","Putative transcriptional regulator","Q5FJK1_LACAC",1.1508
+"1229","V30","Lactobacillus","Uncharacterized protein","Q5FKD6_LACAC",1.7263
+"1230","V30","Lactobacillus","Pyruvate kinase","Q5FKG5_LACAC",10.358
+"1231","V30","Lactobacillus","Citrate lyase alpha chain","Q5FKK0_LACAC",1.1508
+"1232","V30","Lactobacillus","Cellobiose-specific PTS IIA","Q5FKN8_LACAC",1.1508
+"1233","V30","Lactobacillus","Glyceraldehyde-3-p dehydrogenase","Q5FL51_LACAC",13.81
+"1234","NV7","Lactobacillus","Phosphotransferase system enzyme II","Q5FL92_LACAC",1.658
+"1235","V30","Lactobacillus","Phosphotransferase system enzyme II","Q5FL92_LACAC",2.3017
+"1236","V10","Lactobacillus","Phosphoenolpyruvate-protein phosphotransferase","Q5FLA5_LACAC",0.46542
+"1237","V30","Lactobacillus","Phosphoenolpyruvate-protein phosphotransferase","Q5FLA5_LACAC",4.6034
+"1238","V30","Lactobacillus","SlpX","Q5FLN0_LACAC",2.3017
+"1239","V30","Lactobacillus","Uncharacterized protein","Q5FLP2_LACAC",1.7263
+"1240","V30","Lactobacillus","Glucose-6-phosphate 1-dehydrogenase","Q5FLX0_LACAC",1.7263
+"1241","V30","Lactobacillus","Cell separation protein","Q5FMF6_LACAC",1.7263
+"1242","V30","Lactobacillus","Aminopeptidase E","Q5FMH5_LACAC",1.7263
+"1243","V10","Lactobacillus","D-lactate dehydrogenase","Q5FMW5_LACAC",2.7925
+"1244","V21","Lactobacillus","D-lactate dehydrogenase","Q5FMW5_LACAC",1.2048
+"1245","V25","Lactobacillus","D-lactate dehydrogenase","Q5FMW5_LACAC",3.5007
+"1246","V30","Lactobacillus","D-lactate dehydrogenase","Q5FMW5_LACAC",3.4525
+"1247","R3","Eubacterium","Flagellin","R5GXR3_9FIRM",14.553
+"1248","R8","Eubacterium","Flagellin","R5GXR3_9FIRM",6.5031
+"1249","R3","Eubacterium","Prepilin-type N-terminal cleavage/methylation domain","R5H655_9FIRM",3.6382
+"1250","R3","Firmicutes","Glutamate dehydrogenase","R5SGN6_9FIRM",3.6382
+"1251","R4","Firmicutes","Glutamate dehydrogenase","R5SGN6_9FIRM",3.4671
+"1252","R3","Clostridium","Flagellin","R5VI94_9CLOT",3.6382
+"1253","R8","Clostridium","Glyceraldehyde-3-phosphate dehydrogenase","R5ZS84_9CLOT",26.013
+"1254","R3","Dialister","Uncharacterized protein","R6AF74_9FIRM",5.4573
+"1255","R3","Prevotella","Elongation factor Tu","R6ALV0_9BACT",5.4573
+"1256","V23","Prevotella","Elongation factor Tu","R6ALV0_9BACT",2.3076
+"1257","R3","Roseburia","Flagellin","R6NV79_9FIRM",10.915
+"1258","R4","Roseburia","Flagellin","R6NV79_9FIRM",1.7336
+"1259","R3","Butyrivibrio","Flagellin","R6RT88_9FIRM",5.4573
+"1260","R3","Butyrivibrio","Phosphoglycerate kinase","R6S194_9FIRM",5.4573
+"1261","R3","Firmicutes","Sugar ABC transporter substrate-binding protein","R6ZTN0_9FIRM",3.6382
+"1262","R3","Firmicutes","Flagellin","R6ZZ21_9FIRM",12.734
+"1263","V30","Lactobacillus","50S ribosomal protein L7/L12","RL7_LACAC",3.4525
+"1264","V30","Lactobacillus","30S ribosomal protein S2","RS2_LACAC",2.3017
+"1265","V21","Lactobacillus","30S ribosomal protein S6","RS6_LACAC",0.60241
+"1266","V25","Lactobacillus","30S ribosomal protein S6","RS6_LACAC",1.7504
+"1267","V30","Lactobacillus","30S ribosomal protein S6","RS6_LACAC",1.1508
+"1268","V30","Lactobacillus","Adenosylcobalamin-dependent ribonucleoside-triphosphate reductase","RTPR_LACAC",2.8771
+"1269","V03","Gardnerella","LPXTG-motif protein cell wall anchor domain protein","S4HC94_GARVA",5.6532
+"1270","NV1","Campylobacter","Dipeptidase","S5TT46_9PROT",1.7698
+"1271","V02","Lactobacillus","S-layer protein","SLAP_LACAC",10.105
+"1272","V30","Lactobacillus","S-layer protein","SLAP_LACAC",2.3017
+"1273","V30","Lactobacillus","Threonine--tRNA ligase","SYT_LACAC",5.1788
+"1274","V30","Lactobacillus","Trigger factor","TIG_LACAC",3.4525
+"1275","V30","Lactobacillus","UPF0342 protein LBA1592","Y1592_LACAC",1.1508
