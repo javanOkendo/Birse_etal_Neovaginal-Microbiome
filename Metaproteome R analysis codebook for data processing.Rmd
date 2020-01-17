@@ -1,0 +1,113 @@
+---
+title: "Microbiome Manuscript Metaproteome Codebook"
+author: "Kenzie"
+date: "January 14, 2020"
+output: pdf_document
+---
+setwd("K:/Kenzie computer/WORK/neovaginas/2019 analysis/BMC Microbiome Submission/Revisions/Supporting Materials")
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Metaproteomic analysis of neovaginal and cis vaginal samples
+### Birse et al. "The neovaginal microbiome of transgender women post-gender reassignment surgery"
+
+--------------
+This document contains a subset of the data processing and figure generation conducted in this study.
+
+All data to reproduce this analysis can be found here: `https://github.com/`
+
+Load the necessary libraries: Flexibly Reshape Data: A Reboot of the Reshape Package, Community Ecology Package, and Create Elegant Data Visulisations Using the Grammer of Graphics
+
+```{r}
+library(reshape2)
+library(vegan)
+library(ggplot2)
+
+```
+
+Load and view the metaproteomic dataset in long format
+
+```{r}
+df = read.csv("Bacterial proteins.csv")
+View(df)
+```
+
+Our goal is to: 
+
+1. Bin the data at the genus level
+2. Convert to a wide format. 
+3. Convert to proportions.
+4. Generate a stacked bar plot.
+
+##Step 1
+
+Bin at genus level
+
+```{r}
+aggdata = aggregate(df$Normalized.Total.Spectral.Count, list(df$SubjectID, df$Genus), FUN = sum) #sum of all proteins measured per genus
+colnames(aggdata) = c("SubjectID", "Genus", "Normalized Total Spectral Count")
+View(aggdata)
+
+```
+
+##Step 2
+
+Convert to wide format
+
+```{r}
+wide = dcast(aggdata, Genus~SubjectID, value.var = "Normalized Total Spectral Count")
+wide[is.na(wide)] = 0 #changes NA to 0
+View(wide)
+
+write.csv(wide, "Bacterial Genera spectral counts.csv")
+
+```
+
+Note: There are 32 cis vaginal samples, 7 rectal samples, and 5 neovaginal samples. There are 39 taxa (38 genera + undistinguishable)
+
+##Step 3
+
+Convert spectral counts to proportions
+
+#Delete first column of numbers in excel from "Bacterial Genera spectral counts.csv" and read back in
+
+```{r}
+w=read.csv("Bacterial Genera spectral counts.csv", header = T, row.names = 1)
+
+source("PPFunctions_noCLRS_edited theme_KB_shanhedit.R") # functions for obtaining proportions, generating painter's plots, and hiearchical clustering
+source('K:/bacteria_pplot_clrs_v2.R') #function for desired colours
+prop = getProp(w)
+
+View(prop)
+
+write.csv(prop, "Bacterial Genera Proportions wide.csv")
+
+```
+
+```
+##Step 4 Generate a stacked bar plot
+
+##FIGURE 1B Example
+
+```{r}
+propall=prop
+png("Neovagina all plots.png", width = 10, height = 8, units = "in", res = 300)
+PPlot(propall, subject_numbers = F)
+dev.off()
+
+png("Neovagina dendrogram_propall.png", width =10, height = 8, units='in', res=300)
+plotClust(propall, subject_numbers = F)
+dev.off()
+
+png("Neovagina shannonH_propall.png", width = 10, height = 8, units="in", res=300)
+shanH(propall)
+dev.off()
+
+s <- diversity(t(propall), "shannon")
+d <- data.frame(1:length(s), s)
+colnames(d) <- c("Subject", "S")
+
+write.csv(d, "ShannonH values.csv")
+```
+

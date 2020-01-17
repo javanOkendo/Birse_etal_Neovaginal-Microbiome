@@ -1,0 +1,208 @@
+---
+title: "Microbiome Manuscript 16S rRNA Sequencing Codebook"
+author: Alana Lamont 
+date: "Jan 14 2020"
+output: html_document
+---
+
+# Metaproteomic analysis of neovaginal and cis vaginal samples
+### Birse et al. "The neovaginal microbiome of transgender women post-gender reassignment surgery"
+
+--------------
+This document contains a subset of the data processing and figure generation conducted in this study.
+
+All data to reproduce this analysis can be found here: `https://github.com/`
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+root.dir = "K:/Kenzie computer/WORK/neovaginas/2019 analysis/BMC Microbiome Submission/Revisions/Supporting Materials/16S/VMS"
+
+```
+
+
+### Load libraries and functions: 
+
+```{r}
+options(scipen = 999) # prevent R from using e exponents for large values
+library(dplyr)
+library(ggplot2)
+source('Neovagina Paper_16S analysis_functions_Jan.14.2020.R') #functions needed
+
+```
+
+
+### Read in mothur output:
+
+Mothur's phylotype classification gives the number of reads at each Phylogenetic level as numbers from 1-6, where 1 == Domain, 2 == Phylum, 3 == Class, 4 == Order, 5 == Family, and 6 == Genus). 
+
+The total number of reads stays the same no matter which Phylogenetic level the data is being looked at (i.e. reads are not being double counted). However, any reads that weren't able to be classified to a lower phylogenetic level are labelled as the highest level they were able to be classified to, with the suffix '_unclassified'.
+
+For example:
+- There were 2725 reads in total classified to the family *Bifidobacteriaceae* 
+    - at the genus level, this breaks down to:
+      - Alloscardovia (859 reads)
+      - Bifidobacterium (32 reads)
+      - Gardnerella (1823 reads)
+      - Scardovia (2 reads)
+    - this sums up to 2716 reads that were able to be classified to the genus level within     Bifidobacteriacae
+    - (2725 reads - 2716 reads) = 9 reads that were not able to be classified to a specific     genus. Mothur classifies these at genus-level as "Bifidobacteriaceae_unclassified".
+ 
+We have chosen to retain only reads that were able to be classified at the Genus level for our analysis - therefore we removed all '_unclassified' reads from our Genus-level subset.
+
+```{r}
+d <- read.csv("Canadian cis vaginal 16S.raw.mothur.output.csv", stringsAsFactors=FALSE) 
+
+total.read.count <- d[1,5]                    # 241,010 reads total
+genus.level <- subset(d, taxlevel == 6)  
+sum(genus.level$total)                        # total read count is the same after subset
+
+# Remove unclassified taxa
+genus.remove.unclassified <- remove.unclassified.taxa(d, genus.level) 
+
+# Remove unneeded columns
+genus.remove.unclassified$rankID = NULL            
+genus.remove.unclassified$daughterlevels = NULL
+genus.remove.unclassified$taxlevel = NULL
+
+# Total '_unclassified' taxa reads removed?
+cat("\n", ( total.read.count - 
+      sum(genus.remove.unclassified$total )),
+     "reads unclassified at genus-level were removed")
+
+```
+
+
+### Order by most abundant taxa
+
+```{r}
+names(genus.remove.unclassified)[names(genus.remove.unclassified)=="total"] <- "total.reads.per.taxa"
+
+genus.ordered <- genus.remove.unclassified[order
+                                           (genus.remove.unclassified$total.reads.per.taxa,
+                                           decreasing = TRUE),, 
+                                           drop = FALSE]
+# Make dataframe completely numeric
+genus.ordered$total.reads.per.taxa = NULL
+rownames(genus.ordered) <- genus.ordered$taxon
+genus.ordered$taxon = NULL
+
+```
+
+
+### Identify taxa found at higher proportion in negative controls
+
+Sequencing negative controls (blanks) is extremely important for any amplification-based microbiome study, as contaminant bacteria that did not originate from biological samples may be present in reagents, etc. We sequenced 2 blanks (each in triplicate) that were processed alongside our biological samples for the purpose of identifying any possible contaminant taxa. 
+
+To identify if a taxa was deemed a contaminant, we used a fold difference calculation to determine if the mean number of reads across negative controls was greater than the mean number of reads across biological samples.
+
+  Fold difference = (Mean reads in samples - Mean reads in negatives) /
+                    (Mean reads in negatives)
+
+If fold difference is <0, this means there were more reads of this taxa in negative controls than in the biological samples. Therefore, these taxa will be removed from analysis.
+
+  * Note: Pseudomonas was detected at a similar level of low abundance in both samples and negative controls, but as we have previously detected Pseudomonas in CVL samples using mass spectrometry (Klatt NR, et al. Vaginal bacteria modify HIV tenofovir microbicide efficacy in African women. Science 2017, 356:938-45.), we elected to keep this genus in our analysis.
+
+
+```{r}
+# Negative controls data frame
+list_negative.controls <- c( "ENAug25a_S91",
+                             "ENAug25b_S92",
+                             "ENAug25c_S93",
+                             "VM024a_S70",
+                             "VM024b_S71",
+                             "VM024c_S72" )
+
+df_neg <- genus.ordered[, (colnames(genus.ordered) %in% list_negative.controls), 
+                        drop = FALSE]
+
+# Positive controls data frame
+list_positive.controls <- c( "DnaStdA_S163",
+                             "DnaStdB_S164",
+                             "DnaStdC_S165",
+                             "EPAug25a_S88",
+                             "EPAug25b_S89",
+                             "EPAug25c_S90",
+                             "EPMay7a_S160",
+                             "EPMay7b_S161",
+                             "EPMay7c_S162")
+
+df_pos <- genus.ordered[, (colnames(genus.ordered) %in% list_positive.controls),
+                        drop = FALSE]
+
+# Samples data frame
+list_all.controls <- c(list_negative.controls, list_positive.controls)
+
+df_samples <- genus.ordered[, !(colnames(genus.ordered) %in% list_all.controls),
+                        drop = FALSE]
+
+
+# Use negative control calculations
+taxa.rm.calc.table(df_samples, df_neg, genus.ordered)
+rm.table <- taxa.rm.calc.table(df_samples, df_neg, genus.ordered)
+
+# Examine taxa that passed
+taxa.to.keep <- subset(rm.table, Keep.or.Lose.Taxa == "Keep")
+cat(nrow(taxa.to.keep), "taxa passed fold difference calculation")
+rownames(taxa.to.keep)
+
+# Examine taxa that didn't pass
+taxa.to.lose <- subset(rm.table, Keep.or.Lose.Taxa == "Lose")
+cat(nrow(taxa.to.lose), "taxa that didn't pass")
+rownames(taxa.to.lose)   #majority of these are known reagent contaminants - see Salter 
+
+# Retain Pseudomonas (see note above)
+p <- as.data.frame((taxa.to.lose)[5,])
+p2 <- rbind(taxa.to.keep,p)
+taxa.to.keep.final <- p2
+nrow(taxa.to.keep.final)  # 132 taxa kept
+
+# Final taxa dataframe
+list_taxa.to.keep.final <- rownames(taxa.to.keep.final)
+df_final <- df_samples[ (rownames(df_samples) %in% list_taxa.to.keep.final),, drop = FALSE]
+df_final
+
+```
+
+
+### Pool replicates, bin least abundant taxa for visualisation
+
+Samples were extracted and processed in triplicate, therefore need to pool the 3 replicates for each biological sample. 
+
+Only the first 31 samples (VM1 - VM32) were used for this analysis, to match the samples that were used for MS analysis. (Please note that VM024 has already been excluded, as it was a blank sample and therefore used as a negative control).
+
+```{r}
+# Pool replicates
+df_final.pooled <- pool.samples(df_final)
+
+# Bin low abundance taxa for visualization
+df_final.pooled_binned <- binning(df_final.pooled)
+
+# Select samples used for this manuscript's analysis
+neovagina.match.samples <- c("V01", "V02", "V03", "V04", "V05", "V06",
+                             "V07", "V08","V09", "V10", "V11", "V12", 
+                             "V13", "V14", "V15", "V16","V17", "V18",
+                             "V19", "V20", "V21", "V22", "V23", "V25",
+                             "V26", "V27", "V28", "V29", "V30", "V31",
+                             "V32")
+
+df_final.pooled_binned2 <- df_final.pooled_binned[, (colnames(df_final.pooled_binned)  
+                                           %in% neovagina.match.samples), 
+                                           drop = FALSE]
+
+# Make stacked barplot with hierarchical clustering of taxa
+PPlot(df_final.pooled_binned2)
+
+```
+
+
+### Supplemental material: unrarefied taxonomy table
+
+This is a table containing all biological samples, positive controls, and negative controls, with replicates for each unique sample or control pooled. Taxa are classified at genus-level, and negative control taxa have not been removed. Values in table represent number of reads per taxa. 
+
+```{r, eval = FALSE}
+genus.ordered2 <- pool.samples(genus.ordered)
+write.csv(genus.ordered2, "Neovagina Paper_16S analysis_taxonomy data table_Jan.16.2020.csv")
+
+```
+
