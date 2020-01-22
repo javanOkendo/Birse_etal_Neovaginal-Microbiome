@@ -24,7 +24,9 @@ Functions:
 
 Datasets:
 "Neotrans_phyloseq_object.rds"
+Metadata:
 "Neotrans_Mapping.011620.txt"
+"raw_abundance.phyloseq_study ids.txt"
 Codebooks/Scripts:
 "DADA2_101117.R"
 "run_phyloseq_Neovag.R"
