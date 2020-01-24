@@ -41,6 +41,7 @@ Datasets:
 "Swedish cis vaginal V15L otu table.csv"
 Codebook:
 "Canadian cis vaginal_16S analysis_R Markdown_Jan.14.2020.Rmd"
+"batch_file_all_commands_Microbiome manuscript analysis_01.22_final.sh"
 Functions:
 "Neovagina Paper_16S analysis_functions_Jan.14.2020"
 
